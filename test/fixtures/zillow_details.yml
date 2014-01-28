@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  property_id: 
+  zpid: MyString
+  useCode: MyString
+  latitude: MyString
+  longitude: MyString
+  year: 1
+  lot: 9.99
+  area: 9.99
+  baths: 9.99
+  beds: 9.99
+  lastSoldDate: 2014-01-21
+  lastSold: 9.99
+  zEstimate: 9.99
+  zEstimateDate: 2014-01-21
+  zRentEstimate: 9.99
+  zRentEstimateDate: 2014-01-21
+  zillowDetails: MyString
+
+two:
+  property_id: 
+  zpid: MyString
+  useCode: MyString
+  latitude: MyString
+  longitude: MyString
+  year: 1
+  lot: 9.99
+  area: 9.99
+  baths: 9.99
+  beds: 9.99
+  lastSoldDate: 2014-01-21
+  lastSold: 9.99
+  zEstimate: 9.99
+  zEstimateDate: 2014-01-21
+  zRentEstimate: 9.99
+  zRentEstimateDate: 2014-01-21
+  zillowDetails: MyString

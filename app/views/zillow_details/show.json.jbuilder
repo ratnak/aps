@@ -1,0 +1,1 @@
+json.extract! @zillow_detail, :id, :property_id, :zpid, :useCode, :latitude, :longitude, :year, :lot, :area, :baths, :beds, :lastSoldDate, :lastSold, :zEstimate, :zEstimateDate, :zRentEstimate, :zRentEstimateDate, :zillowDetails, :created_at, :updated_at

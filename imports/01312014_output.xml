@@ -1,0 +1,308 @@
+<?xml version="1.0"?>
+<root>
+  <objects>
+    <object>
+      <ID>656217</ID>
+      <case>07029420CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>69450.39</judge>
+      <parcel>01-3124-001-3620</parcel>
+      <cert/>
+      <address>826 NW 47 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33127</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=826+NW+47+ST&amp;citystatezip=MIAMI+FL+33127</zillow>
+      <assesed>45576.00</assesed>
+      <legal_desc> BAY VISTA PARK AMD PL PB 10-5 LOT 4 BLK 20</legal_desc>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>LECOUNTETHE, MICHAEL C</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>PREMIUM ASSET RECOVERY CORP</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF</partyType>
+        <partyName>WELLS FARGO BANK (NA)</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF ATTORNEY</partyType>
+        <partyName>KIERSTEN JENSEN (ESQ)</partyName>
+      </parties>
+    </object>
+    <object>
+      <ID>636110</ID>
+      <case>08027422CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>305909.66</judge>
+      <parcel>10-7921-025-0020</parcel>
+      <cert/>
+      <address>2024 SE 23 AVE</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33035</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2024+SE+23+AVE&amp;citystatezip=HOMESTEAD+FL+33035</zillow>
+      <assesed>68350.00</assesed>
+      <legal_desc> TOWNGATE NORTH PB 163-066 T-21840 LOT 2 BLK 1</legal_desc>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>LOPEZ, ADRIANA</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>ARGENT MORT CO (LLC)</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>LOPEZ, MIGUEL</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>STATE OF FLA (DOR)</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>BANK OF AMERICA (NA)</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>UNITED STATES OF AMERICA</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>KEYS GATE COMMUNITY ASSN INC</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT ATTORNEY</partyType>
+        <partyName>BRIDGETTE E BONET</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT ATTORNEY</partyType>
+        <partyName>TERESA M ALVAREZ</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF</partyType>
+        <partyName>DEUTSCHE BANK NATL TR CO (TR)</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF ATTORNEY</partyType>
+        <partyName>JESSICA L MONTES</partyName>
+      </parties>
+    </object>
+    <object>
+      <ID>656219</ID>
+      <case>08028274CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>228972.72</judge>
+      <parcel>34-2105-006-4490</parcel>
+      <cert/>
+      <address>4401 NW 193 ST</address>
+      <city>MIAMI GARDENS</city>
+      <state>FL</state>
+      <zip>33055</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=4401+NW+193+ST&amp;citystatezip=MIAMI+GARDENS+FL+33055</zillow>
+      <assesed>71625.00</assesed>
+      <legal_desc> CAROL CITY GARDENS PB 65-131 LOT 22 BLK 19</legal_desc>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>FREMONT INVESTMENT &amp; LOAN</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>MORTGAGE ELECT REG SYS INC</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>STANLEY, SELINA</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>SOUTH DADE HEALTHCARE GROUP (LTD)</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>STATE FARM FIRE &amp; CASUALTY CO</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>UNITED STATES OF AMERICA</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>ALVARADO, JOSE A</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF</partyType>
+        <partyName>U S BANK NATL ASSN (TR)</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF ATTORNEY</partyType>
+        <partyName>JONATHAN D SAWYER (ESQ)</partyName>
+      </parties>
+    </object>
+    <object>
+      <ID>660201</ID>
+      <case>08031393CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>359149.52</judge>
+      <parcel>30-4008-006-2180</parcel>
+      <cert/>
+      <address>900 SW 99 PL</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33174</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=900+SW+99+PL&amp;citystatezip=MIAMI+FL+33174</zillow>
+      <assesed>135661.00</assesed>
+      <legal_desc> CORAL PK EST SEC 6 PB 70-33 LOT 30 BLK 63</legal_desc>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>LINARES, LEONARDO</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>MORTGAGE ELECTRONIC REG SYS INC</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT ATTORNEY</partyType>
+        <partyName>RAY GARCIA</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF</partyType>
+        <partyName>HSBC BANK U S A (NA)</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF</partyType>
+        <partyName>DEUTSCHE ALT B SECURITIES MORT LOAN TR</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF ATTORNEY</partyType>
+        <partyName>RADOYKA J MINAVA</partyName>
+      </parties>
+    </object>
+    <object>
+      <ID>657050</ID>
+      <case>08055513CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>386934.54</judge>
+      <parcel/>
+      <cert/>
+      <address>12222 SW 216TH STREET</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33177</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=12222+SW+216TH+STREET&amp;citystatezip=MIAMI+FL+33177</zillow>
+      <legal_desc> LOT 23 LESS THE NORTH 10 FOR RD, BLK 4, OF FLAMINGO PARK</legal_desc>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>ZAMORA, MARIA</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>AIS CONSUMER DEBT</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>HOUSEHOLD BANK</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>NATIONAL CITY BANK</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>FRIST UN NATL BANK</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>BOARD OF COUNTY COMMISSIONERS ETC</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>CENTURION CAPTIAL CORP</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>LVNV FUNDING (LLC)</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>MIAMI DADE CLERK OF CIRCUIT COURT</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>NATIONAL CITY MORT</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>STATE OF FLA (DOR)</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>WACHOVIA BANK (NA)</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>RIZO, ALEXANDER</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>SIERRA, ENRIQUE</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>ZAMORA, MARIA A</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT ATTORNEY</partyType>
+        <partyName>KENNETH J SCHERER</partyName>
+      </parties>
+      <parties>
+        <partyType>DEFENDANT ATTORNEY</partyType>
+        <partyName>THOMAS H ROBERTSON</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF</partyType>
+        <partyName>U S BANK (NA)</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF ATTORNEY</partyType>
+        <partyName>COURTNEY BANNAN (ESQ)</partyName>
+      </parties>
+    </object>
+    <object>
+      <ID>657053</ID>
+      <case>08062122CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>618345.29</judge>
+      <parcel>09-4024-043-0270</parcel>
+      <cert/>
+      <address>5025 SW 66 AVE</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33155</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=5025+SW+66+AVE&amp;citystatezip=MIAMI+FL+33155</zillow>
+      <assesed>361936.00</assesed>
+      <legal_desc> BLUE HEIGHTS PB 64-136 LOT 20 BLK 2</legal_desc>
+      <parties>
+        <partyType>DEFENDANT</partyType>
+        <partyName>VANEGAS, DIANA</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF</partyType>
+        <partyName>WELLS FARGO BANK (NA)</partyName>
+      </parties>
+      <parties>
+        <partyType>PLAINTIFF ATTORNEY</partyType>
+        <partyName>MATTHEW WOLF</partyName>
+      </parties>
+    </object>
+  </objects>
+</root>

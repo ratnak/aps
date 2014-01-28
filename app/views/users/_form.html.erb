@@ -1,0 +1,76 @@
+<%= render "shared/error_messages", :target => @user %>
+
+<p>
+<%= form.label :name %><br />
+<%= form.text_field :name %>
+</p>
+<p>
+<%= form.label :email %><br />
+<%= form.text_field :email %>
+</p>
+<p>
+<%= form.label :password, form.object.new_record? ? nil : "Change password" %><br />
+<%= form.password_field :password %>
+</p>
+<p>
+<%= form.label :password_confirmation %><br />
+<%= form.password_field :password_confirmation %>
+</p>
+
+#app/views/users/new.html.erb
+<h1>Register</h1>
+
+<%= form_for @user do |f| %>
+<%= render :partial => "form", :object => f, :locals => { :user => @user } %>
+<%= f.submit "Register" %>
+<% end %>
+
+# app/views/users/show.html.erb
+<p>
+<b>Email:</b>
+<%=h @user.email %>
+</p>
+
+<p>
+<b>Login count:</b>
+<%=h @user.login_count %>
+</p>
+
+<p>
+<b>Last request at:</b>
+<%=h @user.last_request_at %>
+</p>
+
+<p>
+<b>Last login at:</b>
+<%=h @user.last_login_at %>
+</p>
+
+<p>
+<b>Current login at:</b>
+<%=h @user.current_login_at %>
+</p>
+
+<p>
+<b>Last login ip:</b>
+<%=h @user.last_login_ip %>
+</p>
+
+<p>
+<b>Current login ip:</b>
+<%=h @user.current_login_ip %>
+</p>
+
+<%= link_to 'Edit Account', edit_account_path %>
+
+#app/views/shared/_error_messages.html.erb
+<% if target.errors.any? %>
+<div id="errorExplanation">
+<h2><%= pluralize(target.errors.count, "error") %> prohibited this record from being saved:</h2>
+<ul>
+<% target.errors.full_messages.each do |msg| %>
+<li><%= msg %></li>
+<% end %>
+</ul>
+</div>
+<% end %>

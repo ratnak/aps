@@ -1,0 +1,260 @@
+<nav id="sidebar">		
+	<ul id="main-nav" class="open-active">			
+
+		<li class="<%= tab_active("home")%>">		
+			<%= link_to root_path do %>
+                <i class="fa fa-dashboard"></i>
+                Dashboard
+            <% end %>				
+		</li>
+		<li class="<%= tab_active("properties")%>">		
+			<%= link_to properties_path do %>
+                <i class="fa fa-dashboard"></i>
+                Properties
+            <% end %>				
+		</li>
+							
+		<li class="dropdown">
+			<%= link_to "#" do %>
+                <i class="fa fa-file-text"></i>
+			    Example Pages
+			    <span class="caret"></span>
+            <% end %>				
+					
+			<ul class="sub-nav">
+				<li>
+
+					<%= link_to "/page-profile.html" do %>
+                		<i class="fa fa-user"></i>
+			    		Profile
+            		<% end %>
+				</li>
+				<li>
+					<%= link_to "/page-invoice.html" do %>
+                		<i class="fa fa-money"></i>
+			    		Invoice
+            		<% end %>
+				</li>
+				<li>
+					<%= link_to "/page-pricing.html" do %>
+                		<i class="fa fa-dollar"></i> 
+			    		Pricing Plans
+            		<% end %>
+				</li>
+				<li>
+					<%= link_to "/page-support.html" do %>
+                		<i class="fa fa-question"></i> 
+			    		Support Page
+            		<% end %>
+				</li>
+				<li>
+					<%= link_to "/page-gallery.html" do %>
+                		<i class="fa fa-picture-o"></i> 
+			    		Gallery
+            		<% end %>
+				</li>
+				<li>
+					<%= link_to "/page-settings.html" do %>
+                		<i class="fa fa-cogs"></i> 
+			    		Settings
+            		<% end %>
+
+				</li>
+				<li>
+					<%= link_to "/page-calendar.html" do %>
+                		<i class="fa fa-calendar"></i> 
+			    		Calendar
+            		<% end %>
+				</li>
+			</ul>						
+					
+		</li>	
+				
+		<li class="dropdown">
+			<%= link_to "#" do %>
+                <i class="fa fa-tasks"></i>
+			    Form Elements
+			    <span class="caret"></span>
+            <% end %>
+					
+			<ul class="sub-nav">
+				<li>
+					<%= link_to "/form-regular.html" do %>
+                		<i class="fa fa-location-arrow"></i>
+			    		Regular Elements
+            		<% end %>
+				</li>
+				<li>
+					<%= link_to "/form-extended.html" do %>
+                		<i class="fa fa-magic"></i>
+			    		Extended Elements
+            		<% end %>
+
+				</li>	
+				<li>
+					<%= link_to "/form-validation.html" do %>
+                		<i class="fa fa-check"></i>
+			    		Validation
+            		<% end %>
+				</li>			
+			</ul>	
+									
+		</li>
+				
+		<li class="dropdown">
+
+			<%= link_to "#" do %>
+                <i class="fa fa-desktop"></i>
+			    UI Features
+			    <span class="caret"></span>
+            <% end %>
+
+			<ul class="sub-nav">
+				<li>
+					<%= link_to "/ui-buttons.html" do %>
+                		<i class="fa fa-hand-o-up"></i>
+			   		 	Buttons
+            		<% end %>
+				</li>
+				<li>
+					<%= link_to "/ui-tabs.html" do %>
+                		<i class="fa fa-reorder"></i>
+			   		 	Tabs & Accordions
+            		<% end %>
+				</li>
+
+				<li>
+					<%= link_to "/ui-popups.html" do %>
+                		<i class="fa fa-asterisk"></i>
+			   		 	Popups / Notifications
+            		<% end %>
+				</li>	
+
+				<li>
+					<%= link_to "/ui-sliders.html" do %>
+                		<i class="fa fa-tasks"></i>
+			   		 	Sliders
+            		<% end %>
+				</li>	
+				
+				<li class="">
+					<%= link_to "/ui-typography.html" do %>
+                		<i class="fa fa-font"></i>
+			   		 	Typography
+            		<% end %>
+				</li>	
+				
+				<li class="">
+					<%= link_to "/ui-icons.html" do %>
+                		<i class="fa fa-star-o"></i>
+			   		 	Icons
+            		<% end %>
+				</li>	
+			</ul>
+		</li>
+				
+		<li class="dropdown">
+			<a href="javascript:;">
+				<i class="fa fa-table"></i>
+				Tables
+				<span class="caret"></span>
+			</a>
+					
+			<ul class="sub-nav">
+				<li>
+					<a href="./table-basic.html">
+						<i class="fa fa-table"></i> 
+						Basic Tables
+					</a>
+				</li>		
+				<li>
+					<a href="./table-advanced.html">
+						<i class="fa fa-table"></i> 
+						Advanced Tables
+					</a>
+				</li>
+				<li>
+					<a href="./table-responsive.html">
+						<i class="fa fa-table"></i> 
+						Responsive Tables
+					</a>
+				</li>	
+			</ul>	
+									
+		</li>
+
+		<li>
+			<a href="./ui-portlets.html">
+				<i class="fa fa-list-alt"></i>
+				Portlets
+			</a>
+		</li>
+				
+		<li class="dropdown">
+			<a href="javascript:;">
+				<i class="fa fa-bar-chart-o"></i>
+					Charts & Graphs
+				    <span class="caret"></span>
+			</a>
+					
+			<ul class="sub-nav">
+				<li>
+					<a href="./chart-flot.html">
+						<i class="fa fa-bar-chart-o"></i> 
+						jQuery Flot
+					</a>
+				</li>
+				<li>
+					<a href="./chart-morris.html">
+						<i class="fa fa-bar-chart-o"></i> 
+						Morris.js
+					</a>
+				</li>
+			</ul>
+		</li>
+				
+		<li class="dropdown">
+			<a href="javascript:;">
+				<i class="fa fa-file-text-o"></i>
+				Extra Pages
+				<span class="caret"></span>
+			</a>
+					
+			<ul class="sub-nav">
+				<li>
+					<a href="./page-login.html">
+						<i class="fa fa-unlock"></i> 
+						Login Basic
+					</a>
+				</li>
+				<li>
+					<a href="./page-login-social.html">
+						<i class="fa fa-unlock"></i> 
+						Login Social
+					</a>
+				</li>
+				<li>
+					<a href="./page-404.html">
+						<i class="fa fa-ban"></i> 
+						404 Error
+					</a>
+				</li>
+				<li>
+					<a href="./page-500.html">
+						<i class="fa fa-ban"></i> 
+						500 Error
+					</a>
+				</li>
+				<li>
+					<a href="./page-blank.html">
+						<i class="fa fa-file-text-o"></i> 
+						Blank Page
+					</a>
+				</li>
+			</ul>
+		</li>
+
+	</ul>
+					
+</nav> <!-- #sidebar -->
+		

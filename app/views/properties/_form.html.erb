@@ -1,0 +1,80 @@
+<div class="row">
+  <div class="col-md-6">
+    <div class="portlet">
+      <div class="portlet-header">
+        <h3>Form</h3>
+      </div>
+          <div class="portlet-content">
+          <%= form_for(@property) do |f| %>
+            <% if @property.errors.any? %>
+              <div id="error_explanation">
+                <h2><%= pluralize(@property.errors.count, "error") %> prohibited this property from being saved:</h2>
+          
+                <ul>
+                <% @property.errors.full_messages.each do |msg| %>
+                  <li><%= msg %></li>
+                <% end %>
+                </ul>
+              </div>
+            <% end %>
+          
+            <div class="field">
+              <%= f.label :auctionDate %><br>
+              <%= f.text_field :auctionDate %>
+            </div>
+            <div class="field">
+              <%= f.label :id %><br>
+              <%= f.text_field :id %>
+            </div>
+            <div class="field">
+              <%= f.label :auctionStatus %><br>
+              <%= f.text_field :auctionStatus %>
+            </div>
+            <div class="field">
+              <%= f.label :caseID %><br>
+              <%= f.text_field :caseID %>
+            </div>
+            <div class="field">
+              <%= f.label :caseType %><br>
+              <%= f.text_field :caseType %>
+            </div>
+            <div class="field">
+              <%= f.label :judgement %><br>
+              <%= f.text_field :judgement %>
+            </div>
+            <div class="field">
+              <%= f.label :assesed %><br>
+              <%= f.text_field :assesed %>
+            </div>
+            <div class="field">
+              <%= f.label :parcel %><br>
+              <%= f.text_field :parcel %>
+            </div>
+            <div class="field">
+              <%= f.label :address %><br>
+              <%= f.text_field :address %>
+            </div>
+            <div class="field">
+              <%= f.label :city %><br>
+              <%= f.text_field :city %>
+            </div>
+            <div class="field">
+              <%= f.label :state %><br>
+              <%= f.text_field :state %>
+            </div>
+            <div class="field">
+              <%= f.label :zip %><br>
+              <%= f.text_field :zip %>
+            </div>
+            <div class="field">
+              <%= f.label :legal %><br>
+              <%= f.text_area :legal %>
+            </div>
+            <div class="actions">
+              <%= f.submit %>
+            </div>
+          <% end %>
+          </div>
+          </div>
+        </div>
+      </div>

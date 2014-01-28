@@ -1,0 +1,85 @@
+<%= form_for(@zillow_detail) do |f| %>
+  <% if @zillow_detail.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@zillow_detail.errors.count, "error") %> prohibited this zillow_detail from being saved:</h2>
+
+      <ul>
+      <% @zillow_detail.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :property %><br>
+    <%= f.text_field :property %>
+  </div>
+  <div class="field">
+    <%= f.label :zpid %><br>
+    <%= f.text_field :zpid %>
+  </div>
+  <div class="field">
+    <%= f.label :useCode %><br>
+    <%= f.text_field :useCode %>
+  </div>
+  <div class="field">
+    <%= f.label :latitude %><br>
+    <%= f.text_field :latitude %>
+  </div>
+  <div class="field">
+    <%= f.label :longitude %><br>
+    <%= f.text_field :longitude %>
+  </div>
+  <div class="field">
+    <%= f.label :year %><br>
+    <%= f.number_field :year %>
+  </div>
+  <div class="field">
+    <%= f.label :lot %><br>
+    <%= f.text_field :lot %>
+  </div>
+  <div class="field">
+    <%= f.label :area %><br>
+    <%= f.text_field :area %>
+  </div>
+  <div class="field">
+    <%= f.label :baths %><br>
+    <%= f.text_field :baths %>
+  </div>
+  <div class="field">
+    <%= f.label :beds %><br>
+    <%= f.text_field :beds %>
+  </div>
+  <div class="field">
+    <%= f.label :lastSoldDate %><br>
+    <%= f.date_select :lastSoldDate %>
+  </div>
+  <div class="field">
+    <%= f.label :lastSold %><br>
+    <%= f.text_field :lastSold %>
+  </div>
+  <div class="field">
+    <%= f.label :zEstimate %><br>
+    <%= f.text_field :zEstimate %>
+  </div>
+  <div class="field">
+    <%= f.label :zEstimateDate %><br>
+    <%= f.date_select :zEstimateDate %>
+  </div>
+  <div class="field">
+    <%= f.label :zRentEstimate %><br>
+    <%= f.text_field :zRentEstimate %>
+  </div>
+  <div class="field">
+    <%= f.label :zRentEstimateDate %><br>
+    <%= f.date_select :zRentEstimateDate %>
+  </div>
+  <div class="field">
+    <%= f.label :zillowDetails %><br>
+    <%= f.text_field :zillowDetails %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

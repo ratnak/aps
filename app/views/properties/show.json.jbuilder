@@ -1,0 +1,1 @@
+json.extract! @property, :id, :id, :auctionStatus, :caseID, :caseType, :judgement, :assesed, :parcel, :address, :city, :state, :zip, :legal, :beds, :baths, :area, :lot, :year, :estimate, :rentEstimate, :zillow, :created_at, :updated_at

@@ -1,0 +1,2707 @@
+<?xml version="1.0"?>
+<root>
+  <objects>
+    <object>
+      <ID>651475</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>07035307CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>400381.99</judge>
+      <parcel/>
+      <cert/>
+      <address>8501 CRESPI BLVD 3</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33141</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=8501+CRESPI+BLVD+3&amp;citystatezip=MIAMI+BEACH+FL+33141</zillow>
+      <legal_desc> CONDO UNIT NO. 1, OF ADELANTE CONDO</legal_desc>
+    </object>
+    <object>
+      <ID>651477</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>08012823CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>536807.95</judge>
+      <parcel>MULTIPLE PARCLES</parcel>
+      <cert/>
+      <address>2861 NE 185 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33180</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2861+NE+185+ST&amp;citystatezip=MIAMI+FL+33180</zillow>
+      <legal_desc> UNIT NO. 304, OF AVENTI AT AVENTURA CONDO TOGETHER WITH BOAT SLIP UNIT 3</legal_desc>
+    </object>
+    <object>
+      <ID>651478</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>08013901CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>647379.31</judge>
+      <parcel>30-4920-009-0350</parcel>
+      <cert/>
+      <address>15960 SW 42 TER</address>
+      <city>UNINCORPORATED COUNTY</city>
+      <state>FL</state>
+      <zip>33185</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15960+SW+42+TER&amp;citystatezip=UNINCORPORATED+COUNTY+FL+33185</zillow>
+      <assesed>245570.00</assesed>
+      <legal_desc> PARK LAKES BY THE MEADOWS PH 2 PB 153-64 T-20136 LOT 7 BLK 3</legal_desc>
+    </object>
+    <object>
+      <ID>652246</ID>
+      <status>Other</status>
+      <case>08019917CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>552420.49</judge>
+      <parcel>11-3101-033-1320</parcel>
+      <cert/>
+      <address>265 NW 91 ST</address>
+      <city>MIAMI SHORES</city>
+      <state>FL</state>
+      <zip>33150</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=265+NW+91+ST&amp;citystatezip=MIAMI+SHORES+FL+33150</zillow>
+      <assesed>180921.00</assesed>
+      <legal_desc> MIAMI SHORES SEC 6 PB 10-39 LOT 16 &amp; W1/2 LOT 17 BLK 136</legal_desc>
+    </object>
+    <object>
+      <ID>646475</ID>
+      <case>08028650CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>222470.43</judge>
+      <parcel/>
+      <cert/>
+      <address>1855 W 60 ST 427</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33012</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1855+W+60+ST+427&amp;citystatezip=HIALEAH+FL+33012</zillow>
+      <legal_desc> CONDO UNIT 427C, OF WESTLAND COURTS CONDO</legal_desc>
+    </object>
+    <object>
+      <ID>651480</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>08029865CA01 (UN02)</case>
+      <count_desc>CROSS-CLAIMANT</count_desc>
+      <type>FORECLOSURE</type>
+      <judge>28756.39</judge>
+      <parcel/>
+      <cert/>
+      <address>2910 FAIRWAY DRIVE</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33035</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2910+FAIRWAY+DRIVE&amp;citystatezip=HOMESTEAD+FL+33035</zillow>
+      <legal_desc> CROSS-CLAIMANT LOT 18 BLK 2, OF THE FAIRWAYS AT KEYS GATE</legal_desc>
+    </object>
+    <object>
+      <ID>646476</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>08030996CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>350807.23</judge>
+      <parcel>02-3234-039-0090</parcel>
+      <cert/>
+      <address>1200 14 ST 3D</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33139</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1200+14+ST+3D&amp;citystatezip=MIAMI+BEACH+FL+33139</zillow>
+      <assesed>145651.00</assesed>
+      <legal_desc> THE ALTON CONDO UNIT 3-D THIRD FLOOR</legal_desc>
+    </object>
+    <object>
+      <ID>642842</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>08036281CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>239691.12</judge>
+      <parcel>34-1132-003-1100</parcel>
+      <cert/>
+      <address>4300 NW 197 ST</address>
+      <city>MIAMI GARDENS</city>
+      <state>FL</state>
+      <zip>33055</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=4300+NW+197+ST&amp;citystatezip=MIAMI+GARDENS+FL+33055</zillow>
+      <assesed>87217.00</assesed>
+      <legal_desc> CAROL CITY GARDENS 1ST ADDN LOT 9 BLK 28</legal_desc>
+    </object>
+    <object>
+      <ID>644020</ID>
+      <case>08040328CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>156648.47</judge>
+      <parcel>06-2228-059-0640</parcel>
+      <cert/>
+      <address>1855 NE 121 ST 5</address>
+      <city>NORTH MIAMI</city>
+      <state>FL</state>
+      <zip>33181</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1855+NE+121+ST+5&amp;citystatezip=NORTH+MIAMI+FL+33181</zillow>
+      <assesed>34584.00</assesed>
+      <legal_desc> SUTTON HOUSE CONDO UNIT 5 BLDG 1855</legal_desc>
+    </object>
+    <object>
+      <ID>642847</ID>
+      <case>08058753CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>534191.87</judge>
+      <parcel>04-2131-015-0560</parcel>
+      <cert/>
+      <address>5015 PALM AVE</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33012</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=5015+PALM+AVE&amp;citystatezip=HIALEAH+FL+33012</zillow>
+      <assesed>117393.00</assesed>
+      <legal_desc> 	BRADLEY MANOR 3RD ADDN PB 56-97 LOT 14 BLK 4 </legal_desc>
+    </object>
+    <object>
+      <ID>645711</ID>
+      <case>08064877CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>407565.47</judge>
+      <parcel>30-5922-007-0480</parcel>
+      <cert/>
+      <address>15002 SW 143 CT</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33186</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15002+SW+143+CT&amp;citystatezip=MIAMI+FL+33186</zillow>
+      <assesed>112951.00</assesed>
+      <legal_desc> COUNTRY WALK SEC 4 PB 116-25 LOT 2 BLK 37 </legal_desc>
+    </object>
+    <object>
+      <ID>638234</ID>
+      <case>08066747CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>212422.56</judge>
+      <parcel>35-3007-003-2320</parcel>
+      <cert/>
+      <address>7656 NW 116 AVE</address>
+      <city>DORAL</city>
+      <state>FL</state>
+      <zip>33178</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=7656+NW+116+AVE&amp;citystatezip=DORAL+FL+33178</zillow>
+      <assesed>197859.00</assesed>
+      <legal_desc> 	DORAL ISLES NORTH SECTION TWO PB 161-58 T-20995 LOT 9 BLK 76</legal_desc>
+    </object>
+    <object>
+      <ID>651489</ID>
+      <case>08068167CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>353538.24</judge>
+      <parcel>10-7916-006-0510</parcel>
+      <cert/>
+      <address>3176 NE 3 DR</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33033</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3176+NE+3+DR&amp;citystatezip=HOMESTEAD+FL+33033</zillow>
+      <assesed>126263.00</assesed>
+      <legal_desc> 	BIMINI AT THE OASIS PB 164-084 T-22088 LOT 51 BLK 1 </legal_desc>
+    </object>
+    <object>
+      <ID>626780</ID>
+      <case>08068228CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>254038.27</judge>
+      <parcel>04-2025-050-0090</parcel>
+      <cert/>
+      <address>1025 W 77 ST I</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33014</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1025+W+77+ST+I&amp;citystatezip=HIALEAH+FL+33014</zillow>
+      <assesed>55260.00</assesed>
+      <legal_desc> 	MONTE BELLO CONDO UNIT I</legal_desc>
+    </object>
+    <object>
+      <ID>651490</ID>
+      <status>Canceled per Order</status>
+      <case>08077663CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>444703.97</judge>
+      <parcel>04-3001-008-1170</parcel>
+      <cert/>
+      <address>4110 W 6 AVE</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33012</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=4110+W+6+AVE&amp;citystatezip=HIALEAH+FL+33012</zillow>
+      <assesed>141345.00</assesed>
+      <legal_desc> 	HIALEAH ESTATES PB 57-77 LOT 17 BLK 4</legal_desc>
+    </object>
+    <object>
+      <ID>644026</ID>
+      <case>08077897CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>326723.37</judge>
+      <parcel>30-1231-004-0210</parcel>
+      <cert/>
+      <address>20577 NE 6 CT</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33179</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=20577+NE+6+CT&amp;citystatezip=MIAMI++FL+33179</zillow>
+      <assesed>68930.00</assesed>
+      <legal_desc> 	TOWNHOUSES OF THE CALIF CLUB PB 111-50 LOT 3 BLK 4 </legal_desc>
+    </object>
+    <object>
+      <ID>636117</ID>
+      <case>08080582CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>431778.61</judge>
+      <parcel>30-4016-005-1290</parcel>
+      <cert/>
+      <address>9329 SW 38 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33165</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=9329+SW+38+ST&amp;citystatezip=MIAMI++FL+33165</zillow>
+      <assesed>93209.00</assesed>
+      <legal_desc> 	CENTRAL HGTS PB 14-22 LOT 21 BLK 6 </legal_desc>
+    </object>
+    <object>
+      <ID>651494</ID>
+      <case>08080589CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>504622.70</judge>
+      <parcel>30-5920-010-0590</parcel>
+      <cert/>
+      <address>15773 SW 147 LN</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33196</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15773+SW+147+LN&amp;citystatezip=MIAMI++FL+33196</zillow>
+      <assesed>212034.00</assesed>
+      <legal_desc> 	MILON VENTURE PB 159-2 T-21098 LOT 21 BLK 2</legal_desc>
+    </object>
+    <object>
+      <ID>670580</ID>
+      <case>09004444CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>462566.80</judge>
+      <parcel>30-6914-011-0200</parcel>
+      <cert/>
+      <address>13224 SW 217 TER</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33170</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=13224+SW+217+TER&amp;citystatezip=MIAMI+FL+33170</zillow>
+      <assesed>39281.00</assesed>
+      <legal_desc> ESTATE MANSIONS PB 161-87 T-21186 LOT 5 BLK 3</legal_desc>
+    </object>
+    <object>
+      <ID>644030</ID>
+      <case>09006465CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>254757.18</judge>
+      <parcel>30-4004-077-0650</parcel>
+      <cert/>
+      <address>9014 W FLAGLER ST 6</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33174</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=9014+W+FLAGLER+ST+6&amp;citystatezip=MIAMI+FL+33174</zillow>
+      <assesed>134540.00</assesed>
+      <legal_desc> 	CENTURY PARK CONDO UNIT 6 PH 4</legal_desc>
+    </object>
+    <object>
+      <ID>647139</ID>
+      <case>09011381CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>227061.41</judge>
+      <parcel>10-7814-011-0260</parcel>
+      <cert/>
+      <address>203 SW 15 PL</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33030</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=203+SW+15+PL&amp;citystatezip=HOMESTEAD+FL+33030</zillow>
+      <assesed>48156.00</assesed>
+      <legal_desc> P &amp; T SUB PB 160-83 T-21413 LOT 26 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>674076</ID>
+      <case>09013837CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>357882.70</judge>
+      <parcel>30-4030-001-0920</parcel>
+      <cert/>
+      <address>11520 SW 57 TER</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33173</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=11520+SW+57+TER&amp;citystatezip=MIAMI++FL+33173</zillow>
+      <assesed>133256.00</assesed>
+      <legal_desc> WESTWOOD LAKE 8TH ADDN PB 65-111 LOT 9 BLK 90</legal_desc>
+    </object>
+    <object>
+      <ID>668288</ID>
+      <case>09014542CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>572163.87</judge>
+      <parcel>05-3120-034-0300</parcel>
+      <cert/>
+      <address>1410 LA BARON DR</address>
+      <city>MIAMI SPRINGS</city>
+      <state>FL</state>
+      <zip>33166</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1410+LA+BARON+DR&amp;citystatezip=MIAMI+SPRINGS+FL+33166</zillow>
+      <assesed>2283838.00</assesed>
+      <legal_desc> 	20 53 41 PB 34-90 AMD PL OF AMD PL OF EDGEWATER PK LOT 1 BLK 4</legal_desc>
+    </object>
+    <object>
+      <ID>637637</ID>
+      <case>09020474CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>578713.88</judge>
+      <parcel>30-5020-011-0490</parcel>
+      <cert/>
+      <address>14270 SW 97 AVE</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33176</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=14270+SW+97+AVE&amp;citystatezip=MIAMI++FL+33176</zillow>
+      <assesed>252592.00</assesed>
+      <legal_desc> PINE MEADOWS SEC 4 PB 68-99 LOT 6 BLK 11 </legal_desc>
+    </object>
+    <object>
+      <ID>647892</ID>
+      <case>09023370CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>401216.80</judge>
+      <parcel>30-4929-032-0520</parcel>
+      <cert/>
+      <address>16255 SW 56 TER</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33193</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=16255+SW+56+TER&amp;citystatezip=MIAMI++FL+33193</zillow>
+      <assesed>143570.00</assesed>
+      <legal_desc> FOREST LAKE PARADISE PB 165-090 T-21483 LOT 3 BLK 12</legal_desc>
+    </object>
+    <object>
+      <ID>652257</ID>
+      <case>09029490CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>386525.47</judge>
+      <parcel>01-4138-113-0090</parcel>
+      <cert/>
+      <address>31 SE 5 ST 1001</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33131</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=31+SE+5+ST+1001&amp;citystatezip=MIAMI+FL+33131</zillow>
+      <assesed>209218.00</assesed>
+      <legal_desc> BRICKELL ON THE RIVER N TWR CONDO UNIT 1001</legal_desc>
+    </object>
+    <object>
+      <ID>645722</ID>
+      <case>09033521CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>298776.41</judge>
+      <parcel>32-2023-010-1620</parcel>
+      <cert/>
+      <address>7314 JACARANDA LN</address>
+      <city>MIAMI LAKES</city>
+      <state>FL</state>
+      <zip>33014</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=7314+JACARANDA+LN&amp;citystatezip=MIAMI+LAKES+FL+33014</zillow>
+      <assesed>139395.00</assesed>
+      <legal_desc> MIAMI LAKES - LAKE MARTHA SEC PB 86-76 LOT 5 BLK 40</legal_desc>
+    </object>
+    <object>
+      <ID>670596</ID>
+      <case>09036595CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>244756.94</judge>
+      <parcel>34-2115-004-2000</parcel>
+      <cert/>
+      <address>2400 NW 159 TER</address>
+      <city>OPA LOCKA</city>
+      <state>FL</state>
+      <zip>33054</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2400+NW+159+TER&amp;citystatezip=OPA+LOCKA+FL+33054</zillow>
+      <assesed>60876.00</assesed>
+      <legal_desc> BUNCHE PARK PB 50-20 LOT 2 BLK 36</legal_desc>
+    </object>
+    <object>
+      <ID>668297</ID>
+      <case>09039061CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>212448.44</judge>
+      <parcel>30-5029-010-0150</parcel>
+      <cert/>
+      <address>16612 SW 101 AVE</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33157</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=16612+SW+101+AVE&amp;citystatezip=MIAMI+FL+33157</zillow>
+      <assesed>95638.00</assesed>
+      <legal_desc> 	29 55 40 PB 72-73 SAMSON HIGHLANDS 1ST ADDN LOT 15 BLK 5 </legal_desc>
+    </object>
+    <object>
+      <ID>674080</ID>
+      <case>09042307CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>1050774.00</judge>
+      <parcel>30-4902-024-0360</parcel>
+      <cert/>
+      <address>104 NW 136 PL</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33182</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=104+NW+136+PL&amp;citystatezip=MIAMI++FL+33182</zillow>
+      <assesed>368617.00</assesed>
+      <legal_desc> UNIVERSITY PARK WEST SEC 4 PB 118-63 LOT 4 BLK 11 </legal_desc>
+    </object>
+    <object>
+      <ID>658705</ID>
+      <case>09044407CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>315958.45</judge>
+      <parcel>30-4928-004-0610</parcel>
+      <cert/>
+      <address>6605 SW 151 CT</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33193</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=6605+SW+151+CT&amp;citystatezip=MIAMI+FL+33193</zillow>
+      <assesed>115517.00</assesed>
+      <legal_desc> WESTWIND LAKES SEC 2 PB 117-15 LOT 3 BLK 14</legal_desc>
+    </object>
+    <object>
+      <ID>642866</ID>
+      <case>09044798CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>283936.27</judge>
+      <parcel>30-4904-009-0740</parcel>
+      <cert/>
+      <address>15330 SW 8 WAY</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33194</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15330+SW+8+WAY&amp;citystatezip=MIAMI++FL+33194</zillow>
+      <assesed>159567.00</assesed>
+      <legal_desc> EMERALD ISLES PB 160-50 T-21152 LOT 2 BLK 13</legal_desc>
+    </object>
+    <object>
+      <ID>642868</ID>
+      <case>09046198CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>492855.52</judge>
+      <parcel>02-3211-078-0470</parcel>
+      <cert/>
+      <address>6515 COLLINS AVE 1504</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33141</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=6515+COLLINS+AVE+1504&amp;citystatezip=MIAMI+BEACH+FL+33141</zillow>
+      <assesed>162380.00</assesed>
+      <legal_desc> BEL-AIRE ON THE OCEAN CONDO UNIT 1504</legal_desc>
+    </object>
+    <object>
+      <ID>626084</ID>
+      <case>09050342CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>2982427.05</judge>
+      <parcel>20-5001-009-0052</parcel>
+      <cert/>
+      <address>10101 SW 62 AVE</address>
+      <city>PINECREST</city>
+      <state>FL</state>
+      <zip>33156</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=10101+SW+62+AVE&amp;citystatezip=PINECREST+FL+33156</zillow>
+      <assesed>1401248.00</assesed>
+      <legal_desc> MARTIN SUBURBAN ACRES PB 50-7 N215FT OF LOT 6</legal_desc>
+    </object>
+    <object>
+      <ID>670610</ID>
+      <case>09055061CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>58796.05</judge>
+      <parcel>02-3214-021-0230</parcel>
+      <cert/>
+      <address>5445 COLLINS AVE 1402</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33140</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=5445+COLLINS+AVE+1402&amp;citystatezip=MIAMI+BEACH+FL+33140</zillow>
+      <assesed>76660.00</assesed>
+      <legal_desc> CASTLE BEACH CLUB CONDO UNIT 1402</legal_desc>
+    </object>
+    <object>
+      <ID>645733</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>09058253CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>361134.38</judge>
+      <parcel>30-6017-022-1590</parcel>
+      <cert/>
+      <address>10239 SW 227 LN</address>
+      <city>CUTLER BAY </city>
+      <state>FL</state>
+      <zip>33190</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=10239+SW+227+LN&amp;citystatezip=CUTLER+BAY++FL+33190</zillow>
+      <assesed>104296.00</assesed>
+      <legal_desc> HERFA SUB PB 159-80 T-21201 LOT 3 BLK 7</legal_desc>
+    </object>
+    <object>
+      <ID>646488</ID>
+      <case>09061490CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>423789.47</judge>
+      <parcel>30-2011-078-0030</parcel>
+      <cert/>
+      <address>7327 NW 173 DR 102</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33015</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=7327+NW+173+DR+102&amp;citystatezip=MIAMI+FL+33015</zillow>
+      <assesed>129400.00</assesed>
+      <legal_desc> BELLA COLINA CONDO UNIT 3 BLDG 1</legal_desc>
+    </object>
+    <object>
+      <ID>651510</ID>
+      <case>09065053CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>221764.53</judge>
+      <parcel>06-2228-011-4970</parcel>
+      <cert/>
+      <address>11525 N BAYSHORE DR</address>
+      <city>NORTH MIAMI</city>
+      <state>FL</state>
+      <zip>33181</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=11525+N+BAYSHORE+DR&amp;citystatezip=NORTH+MIAMI+FL+33181</zillow>
+      <assesed>206040.00</assesed>
+      <legal_desc> SANS SOUCI ESTS PB 50-86 LOT 1 BLK 17 </legal_desc>
+    </object>
+    <object>
+      <ID>652778</ID>
+      <case>09066683CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>150900.93</judge>
+      <parcel>30-2124-014-0900</parcel>
+      <cert/>
+      <address>14781 S BISCAYNE RIVER DR</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33168</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=14781+S+BISCAYNE+RIVER+DR&amp;citystatezip=MIAMI++FL+33168</zillow>
+      <assesed>80322.00</assesed>
+      <legal_desc> REV PLAT OF BRANDON PARK SEC A PB 40/48 LOT 15 BLK 10</legal_desc>
+    </object>
+    <object>
+      <ID>642878</ID>
+      <case>09070702CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>180937.75</judge>
+      <parcel>30-5031-026-0040</parcel>
+      <cert/>
+      <address>17700 SW 113 CT</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33157</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=17700+SW+113+CT&amp;citystatezip=MIAMI++FL+33157</zillow>
+      <assesed>92938.00</assesed>
+      <legal_desc> TORRENT SUB PB 147-77 T-18552 LOT 4 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>658718</ID>
+      <case>09071166CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>196087.29</judge>
+      <parcel>01-3125-019-0250</parcel>
+      <cert/>
+      <address>25 NW 35 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33127</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=25+NW+35+ST&amp;citystatezip=MIAMI+FL+33127</zillow>
+      <assesed>73139.00</assesed>
+      <legal_desc> WYNDWOOD PARK PB 5-23 LOT 38 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>658719</ID>
+      <case>09072096CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>513365.24</judge>
+      <parcel>30-4016-007-2620</parcel>
+      <cert/>
+      <address>3315 SW 89 AVE</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33165</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3315+SW+89+AVE&amp;citystatezip=MIAMI++FL+33165</zillow>
+      <assesed>143958.00</assesed>
+      <legal_desc> BIRD ROAD HIGHLANDS PB 20-31 LOT 462</legal_desc>
+    </object>
+    <object>
+      <ID>652781</ID>
+      <case>09074311CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>143442.58</judge>
+      <parcel>30-2127-009-0430</parcel>
+      <cert/>
+      <address>12730 NW 17 PL</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33167</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=12730+NW+17+PL&amp;citystatezip=MIAMI+FL+33167</zillow>
+      <assesed>60669.00</assesed>
+      <legal_desc> RANDALL PARK 1ST ADDN PB 56-46 LOT 11 BLK 14</legal_desc>
+    </object>
+    <object>
+      <ID>672671</ID>
+      <case>09076314CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>141473.82</judge>
+      <parcel>04-2035-131-0450</parcel>
+      <cert/>
+      <address>1230 W 54 ST 116A</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33012</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1230+W+54+ST+116A&amp;citystatezip=HIALEAH+FL+33012</zillow>
+      <assesed>32263.00</assesed>
+      <legal_desc> THE KENSINGTON CONDO UNIT 116 BLDG A</legal_desc>
+    </object>
+    <object>
+      <ID>644053</ID>
+      <case>09078871CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>387621.37</judge>
+      <parcel>04-3120-041-0330</parcel>
+      <cert/>
+      <address>975 SE 3 PL</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33010</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=975+SE+3+PL&amp;citystatezip=HIALEAH+FL+33010</zillow>
+      <assesed>96269.00</assesed>
+      <legal_desc> 54TH ST ADDN TO HIALEAH PB 67-61 LOT 33 </legal_desc>
+    </object>
+    <object>
+      <ID>671290</ID>
+      <case>09079321CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>672311.62</judge>
+      <parcel>30-5020-021-1520</parcel>
+      <cert/>
+      <address>10601 SW 139 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33176</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=10601+SW+139+ST&amp;citystatezip=MIAMI++FL+33176</zillow>
+      <assesed>310037.00</assesed>
+      <legal_desc> MARY ANN ESTS 1ST ADDN PB 96-53 LOT 15 BLK 15 </legal_desc>
+    </object>
+    <object>
+      <ID>628372</ID>
+      <case>09088531CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>1072879.77</judge>
+      <parcel>30-4915-001-1240</parcel>
+      <cert/>
+      <address>13730 SW 30 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33175</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=13730+SW+30+ST&amp;citystatezip=MIAMI++FL+33175</zillow>
+      <assesed>351596.00</assesed>
+      <legal_desc> AC J G HEADS FARMS SUB PB 46-44 W89.40FT OF E308.20FT OF TR 41 LESS N25FT</legal_desc>
+    </object>
+    <object>
+      <ID>644057</ID>
+      <case>09089361CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>144998.14</judge>
+      <parcel>34-2101-012-0940</parcel>
+      <cert/>
+      <address>135 NW 198 ST</address>
+      <city>MIAMI GARDENS</city>
+      <state>FL</state>
+      <zip>33169</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=135+NW+198+ST&amp;citystatezip=MIAMI+GARDENS+FL+33169</zillow>
+      <assesed>87830.00</assesed>
+      <legal_desc> SIERRA 2ND ADDN PB 57-7 LOT 9 BLK 26</legal_desc>
+    </object>
+    <object>
+      <ID>642886</ID>
+      <case>09089473CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>356323.37</judge>
+      <parcel>04-3012-021-1990</parcel>
+      <cert/>
+      <address>481 W 33 PL</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33012</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=481+W+33+PL&amp;citystatezip=HIALEAH+FL+33012</zillow>
+      <assesed>102613.00</assesed>
+      <legal_desc> WESTHAVEN PARK PB 57-37 LOT 15 BLK 9</legal_desc>
+    </object>
+    <object>
+      <ID>672677</ID>
+      <case>09090934CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>234857.58</judge>
+      <parcel>10-7910-006-0120</parcel>
+      <cert/>
+      <address>2321 NE 42 CIR</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33033</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2321+NE+42+CIR&amp;citystatezip=HOMESTEAD+FL+33033</zillow>
+      <assesed>51348.00</assesed>
+      <legal_desc> MARBELLA COVE PB 161-01 T-21341 LOT 12 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>647187</ID>
+      <case>09092770CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>228053.75</judge>
+      <parcel>35-3022-028-5480</parcel>
+      <cert/>
+      <address>8363 LAKE DR 403</address>
+      <city>DORAL</city>
+      <state>FL</state>
+      <zip>33166</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=8363+LAKE+DR+403&amp;citystatezip=DORAL+FL+33166</zillow>
+      <assesed>80828.00</assesed>
+      <legal_desc> 	LAS VISTAS AT DORAL CONDO UNIT 403 BLDG 8363 </legal_desc>
+    </object>
+    <object>
+      <ID>601430</ID>
+      <case>09093310CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>486668.89</judge>
+      <parcel/>
+      <cert/>
+      <address/>
+      <city/>
+      <state> F</state>
+      <zip> </zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=&amp;citystatezip=+FL+</zillow>
+      <legal_desc> </legal_desc>
+    </object>
+    <object>
+      <ID>671302</ID>
+      <case>09094224CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>421591.19</judge>
+      <parcel>01-3124-017-0040</parcel>
+      <cert/>
+      <address>169 NE 48 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33137</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=169+NE+48+ST&amp;citystatezip=MIAMI+FL+33137</zillow>
+      <assesed>128865.00</assesed>
+      <legal_desc> 	SHADOWLAWN PB 6-47 LOT 4 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>653566</ID>
+      <case>10008964CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>6812.86</judge>
+      <parcel>36-6016-014-1800</parcel>
+      <cert/>
+      <address>8924 SW 221 TER</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33190</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=8924+SW+221+TER&amp;citystatezip=MIAMI+FL+33190</zillow>
+      <assesed>98868.00</assesed>
+      <legal_desc> 	LAKES BY THE BAY JAY PB 161-97 T-21188 LOT 4 BLK 23</legal_desc>
+    </object>
+    <object>
+      <ID>642898</ID>
+      <case>10012759CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>229595.43</judge>
+      <parcel>30-4928-002-1110</parcel>
+      <cert/>
+      <address>15109 SW 71 LN</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33193</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15109+SW+71+LN&amp;citystatezip=MIAMI+FL+33193</zillow>
+      <assesed>154275.00</assesed>
+      <legal_desc> 	WESTWIND LAKES SEC 1 PB 115-88 LOT 16 BLK 3 </legal_desc>
+    </object>
+    <object>
+      <ID>672694</ID>
+      <case>10028618CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>432678.22</judge>
+      <parcel>30-5928-008-0010</parcel>
+      <cert/>
+      <address>15950 SW 153 CT</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33187</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15950+SW+153+CT&amp;citystatezip=MIAMI++FL+33187</zillow>
+      <assesed>216147.00</assesed>
+      <legal_desc> CASSANDRA ESTATES PB 134-90 LOT 1 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>671315</ID>
+      <case>10032853CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>298160.85</judge>
+      <parcel>30-5836-001-0980</parcel>
+      <cert/>
+      <address>17801 SW 174 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33187</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=17801+SW+174+ST&amp;citystatezip=MIAMI++FL+33187</zillow>
+      <assesed>196369.00</assesed>
+      <legal_desc> 	36 55 38 .50 AC INLIKITA SEC A PB 50-45 LOT 17 &amp; 18 BLK 9</legal_desc>
+    </object>
+    <object>
+      <ID>651537</ID>
+      <case>10033151CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>148473.50</judge>
+      <parcel>10-7919-020-0080</parcel>
+      <cert/>
+      <address>1211 S INDEPENDENCE DR 1211-D</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33034</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1211+S+INDEPENDENCE+DR+1211-D&amp;citystatezip=HOMESTEAD+FL+33034</zillow>
+      <assesed>27445.00</assesed>
+      <legal_desc> 	LAKESHORE CONDO 10 UNIT 1211 D</legal_desc>
+    </object>
+    <object>
+      <ID>642908</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>10033429CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>179405.78</judge>
+      <parcel>04-2130-009-0080</parcel>
+      <cert/>
+      <address>6505 W 3 CT</address>
+      <city>HIALEAH FL 3</city>
+      <state>01</state>
+      <zip>-6721</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=6505+W+3+CT&amp;citystatezip=HIALEAH+FL+33012-6721</zillow>
+      <assesed>70960.00</assesed>
+      <legal_desc> GRATIGNY RED TOWNHOUSES PB 95-18 LOT 1 BLK 2</legal_desc>
+    </object>
+    <object>
+      <ID>651538</ID>
+      <case>10034905CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>110197.23</judge>
+      <parcel>27-2033-031-1280</parcel>
+      <cert/>
+      <address>8851 NW 119 ST 3313-3</address>
+      <city>HIALEAH GARDENS</city>
+      <state>FL</state>
+      <zip>33018</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=8851+NW+119+ST+3313-3&amp;citystatezip=HIALEAH+GARDENS+FL+33018</zillow>
+      <assesed>60863.00</assesed>
+      <legal_desc> GRAND VISTA CONDO UNIT 3313 BLDG 3 </legal_desc>
+    </object>
+    <object>
+      <ID>652808</ID>
+      <case>10038763CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>225113.42</judge>
+      <parcel>01-4110-031-0520</parcel>
+      <cert/>
+      <address>1856 SW 17 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33145</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1856+SW+17+ST&amp;citystatezip=MIAMI+FL+33145</zillow>
+      <assesed>111221.00</assesed>
+      <legal_desc> 	DURNIERS SUB SEC 2 PB 15-59 LOT 8 BLK 6</legal_desc>
+    </object>
+    <object>
+      <ID>642913</ID>
+      <case>10040560CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>487914.06</judge>
+      <parcel>35-3007-008-3490</parcel>
+      <cert/>
+      <address>10745 NW 81 LN</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33178</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=10745+NW+81+LN&amp;citystatezip=MIAMI+FL+33178</zillow>
+      <assesed>209580.00</assesed>
+      <legal_desc> ISLANDS AT DORAL 1ST ADDN PB 163-50 T-21659 LOT 1 BLK 75</legal_desc>
+    </object>
+    <object>
+      <ID>672701</ID>
+      <case>10048052CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>334214.49</judge>
+      <parcel>36-6017-012-1560</parcel>
+      <cert/>
+      <address>9842 SW 222 TER</address>
+      <city>CUTLER BAY</city>
+      <state>FL</state>
+      <zip>33190</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=9842+SW+222+TER&amp;citystatezip=CUTLER+BAY+FL+33190</zillow>
+      <assesed>91292.00</assesed>
+      <legal_desc> LAKES BY THE BAY SEC 5 PB 131-75 LOT 30 BLK 18</legal_desc>
+    </object>
+    <object>
+      <ID>670670</ID>
+      <case>10051770CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>163085.81</judge>
+      <parcel>30-2127-008-1340</parcel>
+      <cert/>
+      <address>12215 NW 19 AVE</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33167</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=12215+NW+19+AVE&amp;citystatezip=MIAMI++FL+33167</zillow>
+      <assesed>52856.00</assesed>
+      <legal_desc> RANDALL PARK PB 53-20 LOT 24 BLK 7</legal_desc>
+    </object>
+    <object>
+      <ID>670672</ID>
+      <case>10052524CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>275208.50</judge>
+      <parcel>30-3104-005-3930</parcel>
+      <cert/>
+      <address>3540 NW 97 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33147</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3540+NW+97+ST&amp;citystatezip=MIAMI+FL+33147</zillow>
+      <assesed>53305.00</assesed>
+      <legal_desc> 4 53 41 THE TROPICS ADD PB 5-91 LOT 5 BLK 53</legal_desc>
+    </object>
+    <object>
+      <ID>668330</ID>
+      <case>10063302CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>753181.77</judge>
+      <parcel>30-5020-034-0060</parcel>
+      <cert/>
+      <address>9735 SW 144 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33176</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=9735+SW+144+ST&amp;citystatezip=MIAMI++FL+33176</zillow>
+      <assesed>440399.00</assesed>
+      <legal_desc> 	LONDON GLEN PB 118-72 LOT 6 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>670680</ID>
+      <case>11001159CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>287575.98</judge>
+      <parcel>27-2033-036-0580</parcel>
+      <cert/>
+      <address>8932 NW 120 ST 58</address>
+      <city>HIALEAH </city>
+      <state>FL</state>
+      <zip>33018</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=8932+NW+120+ST+58&amp;citystatezip=HIALEAH++FL+33018</zillow>
+      <assesed>106620.00</assesed>
+      <legal_desc> LES FONTAINES CONDO UNIT 58</legal_desc>
+    </object>
+    <object>
+      <ID>635531</ID>
+      <case>11002847CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>437811.08</judge>
+      <parcel>30-6926-024-0070</parcel>
+      <cert/>
+      <address>13412 SW 255 TER</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33032</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=13412+SW+255+TER&amp;citystatezip=MIAMI++FL+33032</zillow>
+      <assesed>78698.00</assesed>
+      <legal_desc> 	OLIVIAS SUBDIVISION PB 163-060 T-21839 LOT 7 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>644089</ID>
+      <status>Canceled per Order</status>
+      <case>11006762CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>292690.47</judge>
+      <parcel>30-4004-060-1880</parcel>
+      <cert/>
+      <address>8964 SW GRAND CANAL DR</address>
+      <city>MIAMI  FL 3</city>
+      <state>17</state>
+      <zip>-2324</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=8964+SW+GRAND+CANAL+DR&amp;citystatezip=MIAMI++FL+33174-2324</zillow>
+      <assesed>193519.00</assesed>
+      <legal_desc> BILBAO ESTATES PB 120-77 LOT 22 BLK 7</legal_desc>
+    </object>
+    <object>
+      <ID>658764</ID>
+      <case>11007617CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>222176.31</judge>
+      <parcel>04-2036-007-0140</parcel>
+      <cert/>
+      <address>461 W 64 ST</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33012</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=461+W+64+ST&amp;citystatezip=HIALEAH+FL+33012</zillow>
+      <assesed>141131.00</assesed>
+      <legal_desc> 4TH ADD TO PALM SPRINGS SEC E PB 57-73 LOT 14 BLK 54</legal_desc>
+    </object>
+    <object>
+      <ID>642925</ID>
+      <status>Canceled per Order</status>
+      <case>11008821CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>192022.27</judge>
+      <parcel>02-3203-036-0320</parcel>
+      <cert/>
+      <address>80 S SHORE DR 508</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33141</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=80+S+SHORE+DR+508&amp;citystatezip=MIAMI+BEACH+FL+33141</zillow>
+      <assesed>53768.00</assesed>
+      <legal_desc> CORAL BAY CLUB CONDO UNIT 508</legal_desc>
+    </object>
+    <object>
+      <ID>642926</ID>
+      <case>11009849CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>199690.94</judge>
+      <parcel>02-3233-073-0220</parcel>
+      <cert/>
+      <address>1200 WEST AVE 502</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33139</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1200+WEST+AVE+502&amp;citystatezip=MIAMI+BEACH+FL+33139</zillow>
+      <assesed>89729.00</assesed>
+      <legal_desc> 	MIRADOR 1200 CONDO UNIT 502</legal_desc>
+    </object>
+    <object>
+      <ID>644094</ID>
+      <case>11011574CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>72325.43</judge>
+      <parcel>31-2214-021-1120</parcel>
+      <cert/>
+      <address>373 POINCIANA ISLAND DR 1126</address>
+      <city>SUNNY ISLES BEACH</city>
+      <state>FL</state>
+      <zip>33160</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=373+POINCIANA+ISLAND+DR+1126&amp;citystatezip=SUNNY+ISLES+BEACH+FL+33160</zillow>
+      <assesed>338657.00</assesed>
+      <legal_desc> 	POINCIANA IS YT &amp; RCQ CLUB CONDO UNIT 1126 </legal_desc>
+    </object>
+    <object>
+      <ID>642929</ID>
+      <case>11011848CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>541690.93</judge>
+      <parcel>30-4909-007-1690</parcel>
+      <cert/>
+      <address>14955 SW 21 TER</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33185</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=14955+SW+21+TER&amp;citystatezip=MIAMI+FL+33185</zillow>
+      <assesed>337654.00</assesed>
+      <legal_desc> GRAND LAKES PHASE III PB 161-34 T-21233 LOT 13 BLK 57</legal_desc>
+    </object>
+    <object>
+      <ID>652818</ID>
+      <case>11020140CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>207781.17</judge>
+      <parcel>30-6925-012-0190</parcel>
+      <cert/>
+      <address>25021 SW 120 PL</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33032</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=25021+SW+120+PL&amp;citystatezip=HOMESTEAD+FL+33032</zillow>
+      <assesed>67075.00</assesed>
+      <legal_desc> 	BISCAYNE POINT SOUTH PB 151-66 T-19555 LOT 19 BLK 1 </legal_desc>
+    </object>
+    <object>
+      <ID>650845</ID>
+      <case>11020649CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>443722.63</judge>
+      <parcel/>
+      <cert/>
+      <address/>
+      <city/>
+      <state> F</state>
+      <zip> </zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=&amp;citystatezip=+FL+</zillow>
+      <legal_desc> </legal_desc>
+    </object>
+    <object>
+      <ID>635535</ID>
+      <case>11023055CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>520164.67</judge>
+      <parcel>30-1233-034-0170</parcel>
+      <cert/>
+      <address>21310 NE 19 AVE</address>
+      <city>NORTH MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33179</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=21310+NE+19+AVE&amp;citystatezip=NORTH+MIAMI+BEACH+FL+33179</zillow>
+      <assesed>184143.00</assesed>
+      <legal_desc> FIRST ADDN TO HIGHLAND GARDENS PB 94-74 LOT 6 BLK 7</legal_desc>
+    </object>
+    <object>
+      <ID>647236</ID>
+      <case>11023094CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>286733.23</judge>
+      <parcel>04-3106-060-0030</parcel>
+      <cert/>
+      <address>171 W 42 ST</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33012</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=171+W+42+ST&amp;citystatezip=HIALEAH+FL+33012</zillow>
+      <assesed>140151.00</assesed>
+      <legal_desc> 	ROBINS HGTS PB 49-85 LOT 3 BLK 1 </legal_desc>
+    </object>
+    <object>
+      <ID>671334</ID>
+      <case>11027260CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>286929.44</judge>
+      <parcel>02-3202-083-2180</parcel>
+      <cert/>
+      <address>7441 WAYNE AVE 6Q</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33141</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=7441+WAYNE+AVE+6Q&amp;citystatezip=MIAMI+BEACH+FL+33141</zillow>
+      <assesed>94870.00</assesed>
+      <legal_desc> 	PARKVIEW POINT CONDO UNIT 6Q</legal_desc>
+    </object>
+    <object>
+      <ID>670692</ID>
+      <case>11028282CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>90374.87</judge>
+      <parcel>30-3116-004-0750</parcel>
+      <cert/>
+      <address>3110 NW 66 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33147</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3110+NW+66+ST&amp;citystatezip=MIAMI++FL+33147</zillow>
+      <assesed>49467.00</assesed>
+      <legal_desc> FERN PARK PB 39-99 LOT 11 BLK 5</legal_desc>
+    </object>
+    <object>
+      <ID>597590</ID>
+      <case>11033319CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>440060.79</judge>
+      <parcel>26-3025-003-0540</parcel>
+      <cert/>
+      <address>3901 NW 64 AVE</address>
+      <city>VIRGINIA GARDENS</city>
+      <state>FL</state>
+      <zip>33166</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3901+NW+64+AVE&amp;citystatezip=VIRGINIA+GARDENS+FL+33166</zillow>
+      <assesed>167411.00</assesed>
+      <legal_desc> 	REV GREEN HAVEN PB 52-13 LOT 32 BLK 2 </legal_desc>
+    </object>
+    <object>
+      <ID>644115</ID>
+      <case>11033462CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>153811.79</judge>
+      <parcel>30-4927-055-0030</parcel>
+      <cert/>
+      <address>6320 SW 138 CT 103</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33183</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=6320+SW+138+CT+103&amp;citystatezip=MIAMI+FL+33183</zillow>
+      <assesed>52721.00</assesed>
+      <legal_desc> VILLA GRANDE CONDO UNIT 103 BLDG 1</legal_desc>
+    </object>
+    <object>
+      <ID>669256</ID>
+      <case>11037600CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>145505.45</judge>
+      <parcel>34-2108-007-4940</parcel>
+      <cert/>
+      <address>3851 NW 172 TER</address>
+      <city>MIAMI GARDENS</city>
+      <state>FL</state>
+      <zip>33055</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3851+NW+172+TER&amp;citystatezip=MIAMI+GARDENS+FL+33055</zillow>
+      <assesed>78529.00</assesed>
+      <legal_desc> 	CAROL CITY PB 57-20 LOT 16 BLK 19</legal_desc>
+    </object>
+    <object>
+      <ID>652829</ID>
+      <case>11042700CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>130515.90</judge>
+      <parcel>02-3226-044-0150</parcel>
+      <cert/>
+      <address>3801 INDIAN CREEK DR 205</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33140</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3801+INDIAN+CREEK+DR+205&amp;citystatezip=MIAMI+BEACH+FL+33140</zillow>
+      <assesed>71301.00</assesed>
+      <legal_desc> 	RIVERVIEW VILLAS CONDO UNIT 205 </legal_desc>
+    </object>
+    <object>
+      <ID>668351</ID>
+      <case>12001365CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>221187.95</judge>
+      <parcel>30-3053-069-0220</parcel>
+      <cert/>
+      <address>7991 NW 7 ST C8</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33126</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=7991+NW+7+ST+C8&amp;citystatezip=MIAMI++FL+33126</zillow>
+      <assesed>53300.00</assesed>
+      <legal_desc> 	MIDWAY MANSIONS TOWNHOMES CONDO UNIT C-8 </legal_desc>
+    </object>
+    <object>
+      <ID>646546</ID>
+      <case>12002023CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>145327.49</judge>
+      <parcel>34-1132-014-3000</parcel>
+      <cert/>
+      <address>3882 NW 213 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33055</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3882+NW+213+ST&amp;citystatezip=MIAMI+FL+33055</zillow>
+      <assesed>29194.00</assesed>
+      <legal_desc> VISTA VERDE TWNHSE SEC E PB 94-69 LOT 12 BLK 49</legal_desc>
+    </object>
+    <object>
+      <ID>644129</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>12003769CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>524836.45</judge>
+      <parcel>30-5006-000-0501</parcel>
+      <cert/>
+      <address>10840 SW 93 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33176</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=10840+SW+93+ST&amp;citystatezip=MIAMI++FL+33176</zillow>
+      <assesed>544309.00</assesed>
+      <legal_desc> 	6 55 40 1.15 AC M/L E1/2 OF SW1/4 OF NW1/4 OF SE1/4 OF NE1/4 LESS N25FT </legal_desc>
+    </object>
+    <object>
+      <ID>644130</ID>
+      <case>12003820CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>264571.88</judge>
+      <parcel>30-6925-012-0780</parcel>
+      <cert/>
+      <address>12113 SW 248 TER</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33032</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=12113+SW+248+TER&amp;citystatezip=HOMESTEAD+FL+33032</zillow>
+      <assesed>112885.00</assesed>
+      <legal_desc> BISCAYNE POINT SOUTH PB 151-66 T-19555 LOT 78 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>642971</ID>
+      <case>12004050CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>320473.45</judge>
+      <parcel>28-2202-023-2390</parcel>
+      <cert/>
+      <address>3600 MYSTIC POINTE DR 1814</address>
+      <city>AVENTURA FL 3</city>
+      <state>18</state>
+      <zip>-2564</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3600+MYSTIC+POINTE+DR+1814&amp;citystatezip=AVENTURA+FL+33180-2564</zillow>
+      <assesed>226841.00</assesed>
+      <legal_desc> 	MYSTIC POINTE CONDO NO ONE UNIT 1814 </legal_desc>
+    </object>
+    <object>
+      <ID>651578</ID>
+      <case>12004877CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>148907.30</judge>
+      <parcel>01-4137-054-0040</parcel>
+      <cert/>
+      <address>718 NW 4 ST 4</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33128</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=718+NW+4+ST+4&amp;citystatezip=MIAMI+FL+33128</zillow>
+      <assesed>35140.00</assesed>
+      <legal_desc> RIO VISTA CONDO UNIT 4</legal_desc>
+    </object>
+    <object>
+      <ID>651579</ID>
+      <case>12004877CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>148907.30</judge>
+      <parcel>01-4137-054-0040</parcel>
+      <cert/>
+      <address>718 NW 4 ST 4</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33128</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=718+NW+4+ST+4&amp;citystatezip=MIAMI+FL+33128</zillow>
+      <assesed>35140.00</assesed>
+      <legal_desc> RIO VISTA CONDO UNIT 4</legal_desc>
+    </object>
+    <object>
+      <ID>651581</ID>
+      <case>12007657CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>261922.53</judge>
+      <parcel>34-2103-004-1450</parcel>
+      <cert/>
+      <address>1845 NW 190 TER</address>
+      <city>MIAMI GARDENS</city>
+      <state>FL</state>
+      <zip>33056</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1845+NW+190+TER&amp;citystatezip=MIAMI+GARDENS+FL+33056</zillow>
+      <assesed>89165.00</assesed>
+      <legal_desc>  PALMLAND ESTS 1ST ADD PB 60-82 LOT 13 BLK 15</legal_desc>
+    </object>
+    <object>
+      <ID>651582</ID>
+      <case>12008365CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>273365.11</judge>
+      <parcel>07-2207-031-0310</parcel>
+      <cert/>
+      <address>511 NE 180 DR</address>
+      <city>NORTH MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33162</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=511+NE+180+DR&amp;citystatezip=NORTH+MIAMI+BEACH+FL+33162</zillow>
+      <assesed>118050.00</assesed>
+      <legal_desc> HIGHLAND MANOR SEC 6 PB 60-25 LOT 21 BLK 19</legal_desc>
+    </object>
+    <object>
+      <ID>636173</ID>
+      <case>12008406CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>479356.57</judge>
+      <parcel>06-2221-036-0700</parcel>
+      <cert/>
+      <address>15051 ROYAL OAKS LN 2103</address>
+      <city>NORTH MIAMI</city>
+      <state>FL</state>
+      <zip>33181</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15051+ROYAL+OAKS+LN+2103&amp;citystatezip=NORTH+MIAMI+FL+33181</zillow>
+      <assesed>145277.00</assesed>
+      <legal_desc> THE OAKS I CONDO UNIT 2103 BLDG 1</legal_desc>
+    </object>
+    <object>
+      <ID>654340</ID>
+      <case>12009582CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>389927.44</judge>
+      <parcel>01-4002-001-0780</parcel>
+      <cert/>
+      <address>6730 SW 7 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33144</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=6730+SW+7+ST&amp;citystatezip=MIAMI+FL+33144</zillow>
+      <assesed>139343.00</assesed>
+      <legal_desc> 	ZENA GARDENS PB 46-51 LOT 6 BLK 5</legal_desc>
+    </object>
+    <object>
+      <ID>644137</ID>
+      <case>12011504CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>386468.04</judge>
+      <parcel>03-4117-054-0010</parcel>
+      <cert/>
+      <address>3617 PONCE DE LEON BLVD 1</address>
+      <city>CORAL GABLES</city>
+      <state>FL</state>
+      <zip>33134</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3617+PONCE+DE+LEON+BLVD+1&amp;citystatezip=CORAL+GABLES+FL+33134</zillow>
+      <assesed>194690.00</assesed>
+      <legal_desc> 	3617 PONCE DE LEON BLVD CONDO UNIT 1</legal_desc>
+    </object>
+    <object>
+      <ID>639387</ID>
+      <case>12011901CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>783235.93</judge>
+      <parcel>01-4139-086-5020</parcel>
+      <cert/>
+      <address>1200 BRICKELL BAY DR 1820</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33131</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1200+BRICKELL+BAY+DR+1820&amp;citystatezip=MIAMI+FL+33131</zillow>
+      <assesed>136873.00</assesed>
+      <legal_desc> 	THE CLUB AT BRICKELL BAY PLAZA CONDO UNIT 1820</legal_desc>
+    </object>
+    <object>
+      <ID>639390</ID>
+      <case>12012191CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>252985.29</judge>
+      <parcel>33-5033-027-0030</parcel>
+      <cert/>
+      <address>17881 SW 91 AVE</address>
+      <city>PALMETTO BAY</city>
+      <state>FL</state>
+      <zip>33157</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=17881+SW+91+AVE&amp;citystatezip=PALMETTO+BAY+FL+33157</zillow>
+      <assesed>152276.00</assesed>
+      <legal_desc> 	BEL AIRE SEC 17 PB 92-88 LOT 3 BLK 64 </legal_desc>
+    </object>
+    <object>
+      <ID>642988</ID>
+      <case>12012312CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>102621.00</judge>
+      <parcel>30-4926-033-1260</parcel>
+      <cert/>
+      <address>13255 SW 57 TER 14-2</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33183</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=13255+SW+57+TER+14-2&amp;citystatezip=MIAMI+FL+33183</zillow>
+      <assesed>58320.00</assesed>
+      <legal_desc> :	MILLER DREAMS TOWNHOMES CONDO UNIT 2 BLDG 14</legal_desc>
+    </object>
+    <object>
+      <ID>668365</ID>
+      <case>12012616CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>406238.79</judge>
+      <parcel>30-7810-001-0160</parcel>
+      <cert/>
+      <address>30300 SW 197 AVE</address>
+      <city>HOMESTEAD </city>
+      <state>FL</state>
+      <zip>33030</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=30300+SW+197+AVE&amp;citystatezip=HOMESTEAD++FL+33030</zillow>
+      <assesed>335117.00</assesed>
+      <legal_desc> NOB HILL PB 69-53 LOT 6 LESS E5FT FOR R/W BLK 2</legal_desc>
+    </object>
+    <object>
+      <ID>651585</ID>
+      <case>12012971CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>261102.98</judge>
+      <parcel>32-2022-049-0850</parcel>
+      <cert/>
+      <address>8531 NW 139 TER 1403</address>
+      <city>MIAMI LAKES</city>
+      <state>FL</state>
+      <zip>33016</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=8531+NW+139+TER+1403&amp;citystatezip=MIAMI+LAKES+FL+33016</zillow>
+      <assesed>110720.00</assesed>
+      <legal_desc> 	VILLA VIZCAYA CONDO UNIT 1403 </legal_desc>
+    </object>
+    <object>
+      <ID>636875</ID>
+      <case>12014857CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>39565.24</judge>
+      <parcel>23-3209-041-5160</parcel>
+      <cert/>
+      <address>7601 E TREASURE DR 1421</address>
+      <city>NORTH BAY VILLAGE</city>
+      <state>FL</state>
+      <zip>33141</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=7601+E+TREASURE+DR+1421&amp;citystatezip=NORTH+BAY+VILLAGE+FL+33141</zillow>
+      <assesed>113212.00</assesed>
+      <legal_desc> 	THE GRANDVIEW PALACE CONDO UNIT 1421</legal_desc>
+    </object>
+    <object>
+      <ID>637750</ID>
+      <case>12015746CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>472022.10</judge>
+      <parcel>17-2231-003-2130</parcel>
+      <cert/>
+      <address>11402 NE 8 CT</address>
+      <city>BISCAYNE PARK</city>
+      <state>FL</state>
+      <zip>33161</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=11402+NE+8+CT&amp;citystatezip=BISCAYNE+PARK+FL+33161</zillow>
+      <assesed>193194.00</assesed>
+      <legal_desc> 	GRIFFING BISCAYNE PK EST AMD PLAT PB 14-1 LOT 41 BLK 24</legal_desc>
+    </object>
+    <object>
+      <ID>652319</ID>
+      <case>12020399CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>133781.15</judge>
+      <parcel>01-4001-006-0490</parcel>
+      <cert/>
+      <address>5970 SW 7 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33144</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=5970+SW+7+ST&amp;citystatezip=MIAMI+FL+33144</zillow>
+      <assesed>85474.00</assesed>
+      <legal_desc> 	GRANADA GROVES NO 3 PB 14-53 LOT 6 BLK 4</legal_desc>
+    </object>
+    <object>
+      <ID>639403</ID>
+      <case>12022443CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>365387.10</judge>
+      <parcel/>
+      <cert/>
+      <address/>
+      <city/>
+      <state> F</state>
+      <zip> </zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=&amp;citystatezip=+FL+</zillow>
+      <legal_desc> </legal_desc>
+    </object>
+    <object>
+      <ID>651593</ID>
+      <case>12023103CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>210457.89</judge>
+      <parcel>30-6007-031-0020</parcel>
+      <cert/>
+      <address>11000 SW 200 ST 201</address>
+      <city>CUTLER BAY</city>
+      <state>FL</state>
+      <zip>33189</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=11000+SW+200+ST+201&amp;citystatezip=CUTLER+BAY+FL+33189</zillow>
+      <assesed>33459.00</assesed>
+      <legal_desc> GARDEN VIEW CONDO APARTMENTS UNIT 201</legal_desc>
+    </object>
+    <object>
+      <ID>644148</ID>
+      <case>12023682CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>358263.88</judge>
+      <parcel>01-4110-014-1370</parcel>
+      <cert/>
+      <address>2320 SW 11 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33135</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2320+SW+11+ST&amp;citystatezip=MIAMI+FL+33135</zillow>
+      <assesed>117052.00</assesed>
+      <legal_desc> BRYAN PARK PB 5-69 LOT 6 BLK 7</legal_desc>
+    </object>
+    <object>
+      <ID>643029</ID>
+      <case>12025714CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>613254.79</judge>
+      <parcel>01-4106-019-0260</parcel>
+      <cert/>
+      <address>26-28 NW 48 CT</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33126</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=26-28+NW+48+CT&amp;citystatezip=MIAMI+FL+33126</zillow>
+      <assesed>266874.00</assesed>
+      <legal_desc> 6 54 41 PB 6-169 3RD ADDN TO PINEHURST VILLA LOT 30 LESS E5FT</legal_desc>
+    </object>
+    <object>
+      <ID>652320</ID>
+      <case>12026154CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>237319.47</judge>
+      <parcel>04-3106-015-0041</parcel>
+      <cert/>
+      <address>242 E 37 ST</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33013</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=242+E+37+ST&amp;citystatezip=HIALEAH+FL+33013</zillow>
+      <assesed>124772.00</assesed>
+      <legal_desc> 	6 53 41 EVERGREEN TERRACE PB 11-45 LOTS 13 &amp; 14</legal_desc>
+    </object>
+    <object>
+      <ID>647273</ID>
+      <case>12026528CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>164397.07</judge>
+      <parcel>36-6008-016-0670</parcel>
+      <cert/>
+      <address>10374 SW 208 LN</address>
+      <city>CUTLER BAY</city>
+      <state>FL</state>
+      <zip>33189</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=10374+SW+208+LN&amp;citystatezip=CUTLER+BAY+FL+33189</zillow>
+      <assesed>47585.00</assesed>
+      <legal_desc> CUTLER CREEK CLUB SEC 1 PB 114-30 LOT 4 BLK 7</legal_desc>
+    </object>
+    <object>
+      <ID>636884</ID>
+      <case>12026743CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>1416687.63</judge>
+      <parcel>30-4914-001-2560</parcel>
+      <cert/>
+      <address>3401 SW 130 AVE</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33175</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3401+SW+130+AVE&amp;citystatezip=MIAMI+FL+33175</zillow>
+      <assesed>617391.00</assesed>
+      <legal_desc> 	14 54 39 .9 AC PB 46-13 J G HEADS FARMS UNIT A LOT 24 BLK 11</legal_desc>
+    </object>
+    <object>
+      <ID>646563</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>12027046CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>231182.99</judge>
+      <parcel>30-7904-004-1300</parcel>
+      <cert/>
+      <address>15364 GARFIELD DR</address>
+      <city>LEISURE CITY</city>
+      <state>FL</state>
+      <zip>33033</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15364+GARFIELD+DR&amp;citystatezip=LEISURE+CITY+FL+33033</zillow>
+      <assesed>36778.00</assesed>
+      <legal_desc> LEISURE CITY SEC 1 PB 50-88 LOT 10 BLK 8</legal_desc>
+    </object>
+    <object>
+      <ID>646565</ID>
+      <case>12027315CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>233180.55</judge>
+      <parcel>04-2027-079-0930</parcel>
+      <cert/>
+      <address>2485 W 76 ST 109</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33016</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2485+W+76+ST+109&amp;citystatezip=HIALEAH+FL+33016</zillow>
+      <assesed>92690.00</assesed>
+      <legal_desc> WEST PALM VILLAS III CONDO UNIT 109 BLDG 4 PH 4 </legal_desc>
+    </object>
+    <object>
+      <ID>646567</ID>
+      <case>12027659CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>234580.72</judge>
+      <parcel>30-5007-062-0540</parcel>
+      <cert/>
+      <address>10835 SW 112 AVE 318</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33176</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=10835+SW+112+AVE+318&amp;citystatezip=MIAMI++FL+33176</zillow>
+      <assesed>64742.00</assesed>
+      <legal_desc> GARDENS OF KENDALL SO CONDO #5 UNIT 318</legal_desc>
+    </object>
+    <object>
+      <ID>651597</ID>
+      <case>12027891CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>698520.98</judge>
+      <parcel>30-6929-002-0540</parcel>
+      <cert/>
+      <address>15831 SW 254 ST</address>
+      <city>HOMESTEAD </city>
+      <state>FL</state>
+      <zip>33031</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15831+SW+254+ST&amp;citystatezip=HOMESTEAD++FL+33031</zillow>
+      <assesed>284443.00</assesed>
+      <legal_desc> SILVER PALM CITY PB 5-106 LOTS 8-9-10-15-16-17 BLK 13 &amp; S25FT OF SW 253 ST LYG N &amp; ADJ TO LOTS 8-9-10 BLK 13</legal_desc>
+    </object>
+    <object>
+      <ID>647276</ID>
+      <case>12028110CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>536618.02</judge>
+      <parcel>30-4916-031-0170</parcel>
+      <cert/>
+      <address>3104 SW 147 PL</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33185</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3104+SW+147+PL&amp;citystatezip=MIAMI++FL+33185</zillow>
+      <assesed>267496.00</assesed>
+      <legal_desc> CAMINO REAL ESTATES PB 161-50 T-21174 LOT 1 BLK 2 </legal_desc>
+    </object>
+    <object>
+      <ID>646568</ID>
+      <case>12028315CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>252387.89</judge>
+      <parcel>30-7908-025-0120</parcel>
+      <cert/>
+      <address>16255 SW 303 ST</address>
+      <city>HOMESTEAD </city>
+      <state>FL</state>
+      <zip>33033</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=16255+SW+303+ST&amp;citystatezip=HOMESTEAD++FL+33033</zillow>
+      <assesed>46655.00</assesed>
+      <legal_desc> PINE NEEDLES HOMES PB 125-10 LOT 12 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>643037</ID>
+      <case>12028408CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>602279.93</judge>
+      <parcel>30-4909-005-0580</parcel>
+      <cert/>
+      <address>15444 SW 24 TER</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33185</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15444+SW+24+TER&amp;citystatezip=MIAMI++FL+33185</zillow>
+      <assesed>261055.00</assesed>
+      <legal_desc> CENTURY ESTATES PB 160-87 T-20703 LOT 12 BLK 3</legal_desc>
+    </object>
+    <object>
+      <ID>647278</ID>
+      <case>12028570CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>806254.08</judge>
+      <parcel>20-5014-044-0230</parcel>
+      <cert/>
+      <address>12921 SW 70 AVE </address>
+      <city>PINECREST</city>
+      <state>FL</state>
+      <zip>33156</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=12921+SW+70+AVE+&amp;citystatezip=PINECREST+FL+33156</zillow>
+      <assesed>403743.00</assesed>
+      <legal_desc> FAIRMONT ACRES SEC 2 PB 75-97 LOT 5 BLK 5 </legal_desc>
+    </object>
+    <object>
+      <ID>647279</ID>
+      <case>12028698CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>332154.84</judge>
+      <parcel>30-4904-001-0370</parcel>
+      <cert/>
+      <address>903 SW 148 PL</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33194</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=903+SW+148+PL&amp;citystatezip=MIAMI++FL+33194</zillow>
+      <assesed>126291.00</assesed>
+      <legal_desc> EMERALD LAKES PB 159-5 T-20944 LOT 1 BLK 6</legal_desc>
+    </object>
+    <object>
+      <ID>646570</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>12029649CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>75249.74</judge>
+      <parcel>04-2034-010-0070</parcel>
+      <cert/>
+      <address>5924 W 21 CT</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33016</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=5924+W+21+CT&amp;citystatezip=HIALEAH+FL+33016</zillow>
+      <assesed>75240.00</assesed>
+      <legal_desc> WEST PARK VILLAS PB 119-60 LOT 7 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>670728</ID>
+      <case>12029775CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>225421.76</judge>
+      <parcel/>
+      <cert/>
+      <address>SEE FINAL JUDGMENT</address>
+      <city/>
+      <state> F</state>
+      <zip> </zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=SEE+FINAL+JUDGMENT&amp;citystatezip=+FL+</zillow>
+      <legal_desc> SOUTH 200 OF THE NORTH 400 OF THE WEST 1/2 OF THE SE 1/4 OF THE NW 1/4 OF THE NE 1/4 OF SECTION 6, TOWNSHIP 56 S, RANGE 39 E, MIAMI-DADE COUNTY, LESS THE WEST 25</legal_desc>
+    </object>
+    <object>
+      <ID>646572</ID>
+      <case>12030034CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>303423.66</judge>
+      <parcel/>
+      <cert/>
+      <address>284 NW 82 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33150</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=284+NW+82+ST&amp;citystatezip=MIAMI+FL+33150</zillow>
+      <legal_desc> SEE FINAL JUDGEMENT FOR FULL LEGAL DESCRIPTION</legal_desc>
+    </object>
+    <object>
+      <ID>669839</ID>
+      <case>12030841CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>11358.80</judge>
+      <parcel>10-7910-010-0740</parcel>
+      <cert/>
+      <address>960 NE 35 AVE</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33033</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=960+NE+35+AVE&amp;citystatezip=HOMESTEAD+FL+33033</zillow>
+      <assesed>119363.00</assesed>
+      <legal_desc> ESTATES AT MENDICINO PB 162-45 T-21792 LOT 74 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>661503</ID>
+      <case>12031014CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>362613.72</judge>
+      <parcel>30-5029-024-0500</parcel>
+      <cert/>
+      <address>10311 SW 156 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33157</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=10311+SW+156+ST&amp;citystatezip=MIAMI++FL+33157</zillow>
+      <assesed>82858.00</assesed>
+      <legal_desc> FAIRWAY PINES 2ND ADDN PB 78-75 LOT 10 BLK 9</legal_desc>
+    </object>
+    <object>
+      <ID>651600</ID>
+      <case>12033566CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>325859.41</judge>
+      <parcel/>
+      <cert/>
+      <address>2235 SW 131 PL</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33175</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2235+SW+131+PL&amp;citystatezip=MIAMI+FL+33175</zillow>
+      <legal_desc> LOT 10 BLK 2, OF PERVAL SUBDIVISION</legal_desc>
+    </object>
+    <object>
+      <ID>659658</ID>
+      <case>12034978CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>649029.01</judge>
+      <parcel>05-3120-030-0500</parcel>
+      <cert/>
+      <address>510 FORREST DR</address>
+      <city>MIAMI SPRINGS</city>
+      <state>FL</state>
+      <zip>33166</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=510+FORREST+DR&amp;citystatezip=MIAMI+SPRINGS+FL+33166</zillow>
+      <assesed>170319.00</assesed>
+      <legal_desc> FOUST SUB PB 46-31 LOT 11 BLK 4</legal_desc>
+    </object>
+    <object>
+      <ID>651601</ID>
+      <case>12035015CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>464134.95</judge>
+      <parcel>30-6019-015-0620</parcel>
+      <cert/>
+      <address>11251 SW 240 LN</address>
+      <city>HOMESTEAD </city>
+      <state>FL</state>
+      <zip>33032</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=11251+SW+240+LN&amp;citystatezip=HOMESTEAD++FL+33032</zillow>
+      <assesed>133164.00</assesed>
+      <legal_desc> SILVER PALM EAST SECTION FOUR PB 165-092 T-22221 LOT 13 BLK 11</legal_desc>
+    </object>
+    <object>
+      <ID>637778</ID>
+      <case>12037389CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>101835.66</judge>
+      <parcel>36-6005-086-0120</parcel>
+      <cert/>
+      <address>18638 SW 100 AVE </address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33157</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=18638+SW+100+AVE+&amp;citystatezip=MIAMI++FL+33157</zillow>
+      <assesed>70380.00</assesed>
+      <legal_desc> ROYALE POINT-TOWNVILLAS CONDO PHI UNIT 18638 </legal_desc>
+    </object>
+    <object>
+      <ID>639452</ID>
+      <case>12037623CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>221468.87</judge>
+      <parcel>30-6006-007-0020</parcel>
+      <cert/>
+      <address>11211 SW 188 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33157</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=11211+SW+188+ST&amp;citystatezip=MIAMI++FL+33157</zillow>
+      <assesed>56990.00</assesed>
+      <legal_desc> PERRINE PARK PB 78-90 LOT 6 BLK 1 </legal_desc>
+    </object>
+    <object>
+      <ID>651603</ID>
+      <case>12038874CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>920653.26</judge>
+      <parcel>01-4206-065-1800</parcel>
+      <cert/>
+      <address>335 S BISCAYNE BLVD 505</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33131</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=335+S+BISCAYNE+BLVD+505&amp;citystatezip=MIAMI+FL+33131</zillow>
+      <assesed>252236.00</assesed>
+      <legal_desc> ONE MIAMI EAST CONDO UNIT 505</legal_desc>
+    </object>
+    <object>
+      <ID>643078</ID>
+      <case>12040118CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>73608.37</judge>
+      <parcel>30-3116-005-0270</parcel>
+      <cert/>
+      <address>2911 NW 69 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33147</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2911+NW+69+ST&amp;citystatezip=MIAMI+FL+33147</zillow>
+      <assesed>37603.00</assesed>
+      <legal_desc> 	MARILYNDA PB 50-32 LOT 7 BLK 3 </legal_desc>
+    </object>
+    <object>
+      <ID>659664</ID>
+      <case>12041434CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>333235.03</judge>
+      <parcel>28-2203-067-0780</parcel>
+      <cert/>
+      <address>2931 NE 185 ST 1106</address>
+      <city>AVENTURA</city>
+      <state>FL</state>
+      <zip>33180</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2931+NE+185+ST+1106&amp;citystatezip=AVENTURA+FL+33180</zillow>
+      <assesed>118118.00</assesed>
+      <legal_desc> AVENTI AT AVENTURA CONDO UNIT 1106 BLDG 11 </legal_desc>
+    </object>
+    <object>
+      <ID>644171</ID>
+      <case>12041693CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>224449.83</judge>
+      <parcel>30-5912-024-0520</parcel>
+      <cert/>
+      <address>11722 SW 114 TER</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33186</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=11722+SW+114+TER&amp;citystatezip=MIAMI++FL+33186</zillow>
+      <assesed>120947.00</assesed>
+      <legal_desc> TOWNGATE SOUTH SEC 1 PB 126-99 LOT 52 BLK 1</legal_desc>
+    </object>
+    <object>
+      <ID>643091</ID>
+      <case>12042140CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>333888.06</judge>
+      <parcel>02-4204-011-0140</parcel>
+      <cert/>
+      <address>1428 EUCLID AVE 307</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33139</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1428+EUCLID+AVE+307&amp;citystatezip=MIAMI+BEACH+FL+33139</zillow>
+      <assesed>160640.00</assesed>
+      <legal_desc> PARADISE PLAZA CONDO UNIT 307</legal_desc>
+    </object>
+    <object>
+      <ID>651604</ID>
+      <case>12043016CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>159915.07</judge>
+      <parcel>30-6934-003-0450</parcel>
+      <cert/>
+      <address>26425 SW 138 CT</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33032</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=26425+SW+138+CT&amp;citystatezip=HOMESTEAD+FL+33032</zillow>
+      <assesed>27361.00</assesed>
+      <legal_desc> SUNNY HAVEN PB 47-6 LOT 14 BLK 3</legal_desc>
+    </object>
+    <object>
+      <ID>660375</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>12043224CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>153299.06</judge>
+      <parcel>04-2025-018-2040</parcel>
+      <cert/>
+      <address>858 W 79 PL</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33014</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=858+W+79+PL&amp;citystatezip=HIALEAH+FL+33014</zillow>
+      <assesed>74580.00</assesed>
+      <legal_desc> HEIDI ESTATES PB 86-49 LOT 21 BLK 4 </legal_desc>
+    </object>
+    <object>
+      <ID>668394</ID>
+      <case>12045413CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>3002.95</judge>
+      <parcel>36-6016-017-0940</parcel>
+      <cert/>
+      <address>8935 SW 228 LN</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33190</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=8935+SW+228+LN&amp;citystatezip=MIAMI++FL+33190</zillow>
+      <assesed>23370.00</assesed>
+      <legal_desc> TRELLIS AT BAYSHORE PB 164-047 T-22057 LOT 3 BLK 18</legal_desc>
+    </object>
+    <object>
+      <ID>644179</ID>
+      <case>12045931CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>510884.02</judge>
+      <parcel>02-4204-014-2920</parcel>
+      <cert/>
+      <address>650 WEST AVE 2811</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33139</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=650+WEST+AVE+2811&amp;citystatezip=MIAMI+BEACH+FL+33139</zillow>
+      <assesed>452353.00</assesed>
+      <legal_desc> THE FLORIDIAN CONDO UNIT 2811</legal_desc>
+    </object>
+    <object>
+      <ID>636916</ID>
+      <case>12046372CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>297409.87</judge>
+      <parcel>01-4109-024-0220</parcel>
+      <cert/>
+      <address>3440 SW 13 TER</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33145</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3440+SW+13+TER&amp;citystatezip=MIAMI+FL+33145</zillow>
+      <assesed>169397.00</assesed>
+      <legal_desc> ENGLEWOOD PB 7-38 LOT 8 BLK 3</legal_desc>
+    </object>
+    <object>
+      <ID>636919</ID>
+      <case>12047782CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>328301.46</judge>
+      <parcel>30-6936-006-0480</parcel>
+      <cert/>
+      <address>26523 SW 122 PL</address>
+      <city>HOMESTEAD </city>
+      <state>FL</state>
+      <zip>33032</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=26523+SW+122+PL&amp;citystatezip=HOMESTEAD++FL+33032</zillow>
+      <assesed>65349.00</assesed>
+      <legal_desc> MEADOW WOOD MANOR SEC 10 PB 137-68 LOT 19 BLK 59</legal_desc>
+    </object>
+    <object>
+      <ID>658856</ID>
+      <status>01/22/2014 09:00 AM ET</status>
+      <case>12047878CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>44686.96</judge>
+      <parcel>34-1136-013-0250</parcel>
+      <cert/>
+      <address>11 NE 204 ST 26</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33179</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=11+NE+204+ST+26&amp;citystatezip=MIAMI++FL+33179</zillow>
+      <assesed>28730.00</assesed>
+      <legal_desc> RO-MONT GDNS ANDOVER CONDO D UNIT 26</legal_desc>
+    </object>
+    <object>
+      <ID>646602</ID>
+      <case>12049604CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>224801.01</judge>
+      <parcel>04-3002-105-0100</parcel>
+      <cert/>
+      <address>1454 W 41 ST</address>
+      <city>HIALEAH</city>
+      <state>FL</state>
+      <zip>33012</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1454+W+41+ST&amp;citystatezip=HIALEAH+FL+33012</zillow>
+      <assesed>52240.00</assesed>
+      <legal_desc> LAS BRISAS TOWNHOUSES APTS CONDO UNIT L</legal_desc>
+    </object>
+    <object>
+      <ID>650892</ID>
+      <case>13001268CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>908682.43</judge>
+      <parcel/>
+      <cert/>
+      <address/>
+      <city/>
+      <state> F</state>
+      <zip> </zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=&amp;citystatezip=+FL+</zillow>
+      <legal_desc> </legal_desc>
+    </object>
+    <object>
+      <ID>650893</ID>
+      <case>13001680CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>8973.80</judge>
+      <parcel>30-2205-031-0160</parcel>
+      <cert/>
+      <address>18555 NE 14 AVE 513</address>
+      <city>NORTH MIAMI BEACH </city>
+      <state>FL</state>
+      <zip>33179</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=18555+NE+14+AVE+513&amp;citystatezip=NORTH+MIAMI+BEACH++FL+33179</zillow>
+      <assesed>49698.00</assesed>
+      <legal_desc> 	SIXTH MOORINGS CONDO UNIT 513 </legal_desc>
+    </object>
+    <object>
+      <ID>636927</ID>
+      <case>13002949CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>6856.68</judge>
+      <parcel>30-4935-001-0750</parcel>
+      <cert/>
+      <address>12910 SW 82 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33183</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=12910+SW+82+ST&amp;citystatezip=MIAMI++FL+33183</zillow>
+      <assesed>134745.00</assesed>
+      <legal_desc> WINSTON PARK UNIT ONE PB 95-10 LOT 44 BLK 3 </legal_desc>
+    </object>
+    <object>
+      <ID>670764</ID>
+      <case>13003372CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>132762.28</judge>
+      <parcel>30-5914-099-0330</parcel>
+      <cert/>
+      <address>13275 SW 136 ST 33</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33186</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=13275+SW+136+ST+33&amp;citystatezip=MIAMI++FL+33186</zillow>
+      <assesed>102110.00</assesed>
+      <legal_desc> TAMIAMI INDUSTRIAL PARK CONDO UNIT 33</legal_desc>
+    </object>
+    <object>
+      <ID>652343</ID>
+      <case>13004105CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>4892.10</judge>
+      <parcel>30-4929-011-1210</parcel>
+      <cert/>
+      <address>16617 SW 68 TER</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33193</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=16617+SW+68+TER&amp;citystatezip=MIAMI++FL+33193</zillow>
+      <assesed>210750.00</assesed>
+      <legal_desc> 	LAGO MAR 1ST ADDN PB 156-81 T-20383 LOT 7 BLK 23 </legal_desc>
+    </object>
+    <object>
+      <ID>650895</ID>
+      <case>13004225CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>230394.92</judge>
+      <parcel>30-4933-015-0630</parcel>
+      <cert/>
+      <address>14826 SW 74 LN</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33193</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=14826+SW+74+LN&amp;citystatezip=MIAMI+FL+33193</zillow>
+      <assesed>86648.00</assesed>
+      <legal_desc> 	MEADOWBROOK SEC 1 PB 111-54 LOT 12 BLK 5</legal_desc>
+    </object>
+    <object>
+      <ID>646629</ID>
+      <case>13021352CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>15648.13</judge>
+      <parcel>30-3053-116-0320</parcel>
+      <cert/>
+      <address>8321 NW 7 ST 1-108</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33126</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=8321+NW+7+ST+1-108&amp;citystatezip=MIAMI+FL+33126</zillow>
+      <assesed>49310.00</assesed>
+      <legal_desc> 	FLAMINGO COURT CONDO UNIT 1-108</legal_desc>
+    </object>
+    <object>
+      <ID>636238</ID>
+      <case>13021567CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>307871.29</judge>
+      <parcel>30-5934-018-0790</parcel>
+      <cert/>
+      <address>18260 SW 142 PL</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33177</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=18260+SW+142+PL&amp;citystatezip=MIAMI+FL+33177</zillow>
+      <assesed>110508.00</assesed>
+      <legal_desc> 	ARISTOTLE SUB PHASE IV PB 147-31 T-18807 LOT 23 BLK 4</legal_desc>
+    </object>
+    <object>
+      <ID>645838</ID>
+      <case>13027520CA01</case>
+      <count_desc/>
+      <type>FORECLOSURE</type>
+      <judge>9310.56</judge>
+      <parcel>30-2206-047-0440</parcel>
+      <cert/>
+      <address>665 NE 195 ST 223</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33179</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=665+NE+195+ST+223&amp;citystatezip=MIAMI+FL+33179</zillow>
+      <assesed>54400.00</assesed>
+      <legal_desc> 	COCO WOOD CONDO UNIT 223</legal_desc>
+    </object>
+    <object>
+      <ID>662198</ID>
+      <type>TAXDEED</type>
+      <parcel>30-3103-000-0270</parcel>
+      <cert>09-36824</cert>
+      <address>2254 NW 91 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33147</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2254+NW+91+ST&amp;citystatezip=MIAMI++FL+33147</zillow>
+      <assesed>40288.00</assesed>
+      <legal_desc> 3 53 41 .16AC BEG 25 FTE &amp; 25FTS OF NW COR NE1/4 SE1/4 SW1/4 E275FT TO POB E50FT S140FT W50FT N140FT TO POB LOT 6 BLK 1 AIRPORT PK UR LOT SIZE 50.000 X 140</legal_desc>
+    </object>
+    <object>
+      <ID>662199</ID>
+      <type>TAXDEED</type>
+      <parcel>30-4926-030-0520</parcel>
+      <cert>09-44458</cert>
+      <address>6801 SW 129 AVE 4</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33183</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=6801+SW+129+AVE+4&amp;citystatezip=MIAMI++FL+33183</zillow>
+      <assesed>58640.00</assesed>
+      <legal_desc> GREENTREE CONDO UNIT 6801-4 UNDIV .543% INT IN COMMON ELEMENTS</legal_desc>
+    </object>
+    <object>
+      <ID>662200</ID>
+      <type>TAXDEED</type>
+      <parcel>30-5010-010-0080</parcel>
+      <cert>09-46421</cert>
+      <address>11905 SW 84 AVE</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33156</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=11905+SW+84+AVE&amp;citystatezip=MIAMI++FL+33156</zillow>
+      <assesed>231082.00</assesed>
+      <legal_desc> KENDALWOOD ESTS PB 61-4 LOT 8 BLK 1 LOT SIZE IRREGULAR</legal_desc>
+    </object>
+    <object>
+      <ID>662201</ID>
+      <type>TAXDEED</type>
+      <parcel>30-5032-013-0770</parcel>
+      <cert>09-47586</cert>
+      <address>10490 SW 172 ST</address>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33157</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=10490+SW+172+ST&amp;citystatezip=MIAMI++FL+33157</zillow>
+      <assesed>66231.00</assesed>
+      <legal_desc> 32 55 40 WEST PERRINE ADDITION PB 44-19 W77FT LOT 4 LESS S104FT &amp; LESS N25FT BLK 5 LOT SIZE 77.000 X 105</legal_desc>
+    </object>
+    <object>
+      <ID>662180</ID>
+      <type>TAXDEED</type>
+      <parcel>28-2210-013-4800</parcel>
+      <cert>10-22457</cert>
+      <address>2750 NE 183 ST 1604</address>
+      <city>AVENTURA</city>
+      <state>FL</state>
+      <zip>33160</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2750+NE+183+ST+1604&amp;citystatezip=AVENTURA+FL+33160</zillow>
+      <assesed>79596.00</assesed>
+      <legal_desc> COMMODORE PLAZA CONDO TOWER BLDG APT 1604 16TH FLOOR UNDIV .151% INT IN COMMON ELEMENTS CLERKS FILE 70R-224727 F/A/U 30-2210-013-4800</legal_desc>
+    </object>
+    <object>
+      <ID>662181</ID>
+      <type>TAXDEED</type>
+      <parcel>31-2202-034-2360</parcel>
+      <cert>10-22625</cert>
+      <address>19201 COLLINS AVE 523</address>
+      <city>SUNNY ISLES</city>
+      <state>FL</state>
+      <zip>33160</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=19201+COLLINS+AVE+523&amp;citystatezip=SUNNY+ISLES+FL+33160</zillow>
+      <assesed>47377.00</assesed>
+      <legal_desc> THE AVENTURA BEACH CLUB CONDO UNIT 523 UNDIV 0.0018664 % INT IN COMMON ELEMENTS OFF REC 16641-3749 OR 17297-1791 0796 1 F/A/U 30-2202-034-2360</legal_desc>
+    </object>
+    <object>
+      <ID>662182</ID>
+      <type>TAXDEED</type>
+      <parcel>33-5025-006-0430</parcel>
+      <cert>10-23557</cert>
+      <address>6200 SW 152 ST 43</address>
+      <city>PALMETTO BAY</city>
+      <state>FL</state>
+      <zip>33157</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=6200+SW+152+ST+43&amp;citystatezip=PALMETTO+BAY+FL+33157</zillow>
+      <assesed>135269.00</assesed>
+      <legal_desc> ROYAL HRB YACHT CL MARINA CONDO SLIP 43 UNDIV 1/49 INT IN COMMON ELEMENTS OFF REC 12257-1330 OR 19187-4235 07 2000 2 F/A/U 30-5025-006-0430</legal_desc>
+    </object>
+    <object>
+      <ID>662183</ID>
+      <type>TAXDEED</type>
+      <parcel>33-5027-055-0060</parcel>
+      <cert>10-23593</cert>
+      <address>15724 SW 78 PL</address>
+      <city>PALMETTO BAY</city>
+      <state>FL</state>
+      <zip>33157</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=15724+SW+78+PL&amp;citystatezip=PALMETTO+BAY+FL+33157</zillow>
+      <assesed>431288.00</assesed>
+      <legal_desc> PEARCH GROVE SUB PB 145-19 T-18292 LOT 6 BLK 1LOT SIZE 14445 SQ FT F/A/U 30-5027-000-0300 F/A/U 30-5027-055-0060</legal_desc>
+    </object>
+    <object>
+      <ID>662184</ID>
+      <type>TAXDEED</type>
+      <parcel>34-2118-031-0390</parcel>
+      <cert>10-25927</cert>
+      <address>4960 NW 165 ST B-14</address>
+      <city>MIAMI GARDENS</city>
+      <state>FL</state>
+      <zip>33014</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=4960+NW+165+ST+B-14&amp;citystatezip=MIAMI+GARDENS+FL+33014</zillow>
+      <assesed>166930.00</assesed>
+      <legal_desc> PALMETTO CENTER CONDO UNIT B-14 UNDIV .0228% INT IN COMMON ELEMENTS OFF REC 23314-0077</legal_desc>
+    </object>
+    <object>
+      <ID>662185</ID>
+      <type>TAXDEED</type>
+      <parcel>34-2118-031-0400</parcel>
+      <cert>10-25928</cert>
+      <address>4960 NW 165 ST B-15</address>
+      <city>MIAMI GARDENS</city>
+      <state>FL</state>
+      <zip>33014</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=4960+NW+165+ST+B-15&amp;citystatezip=MIAMI+GARDENS+FL+33014</zillow>
+      <assesed>166930.00</assesed>
+      <legal_desc> PALMETTO CENTER CONDO UNIT UNIT B-15 UNDIV .0228% INT IN COMMON ELEMENTS OFF REC 23314-0077</legal_desc>
+    </object>
+    <object>
+      <ID>662186</ID>
+      <type>TAXDEED</type>
+      <parcel>36-6003-028-0410</parcel>
+      <cert>10-26742</cert>
+      <address>20010 SW CUTLER CT</address>
+      <city>CUTLER BAY</city>
+      <state>FL</state>
+      <zip>33189</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=20010+SW+CUTLER+CT&amp;citystatezip=CUTLER+BAY+FL+33189</zillow>
+      <assesed>203013.00</assesed>
+      <legal_desc> MUNNE ROYAL HOMES PB 139-76 LOT 41 BLK 1 LOT SIZE 15019 SQ FT F/A/U 30-6003-028-0410</legal_desc>
+    </object>
+    <object>
+      <ID>662187</ID>
+      <status>Redeemed After Sale</status>
+      <type>TAXDEED</type>
+      <parcel>30-7828-000-0700</parcel>
+      <cert>10-46246</cert>
+      <address/>
+      <city>MIAMI </city>
+      <state>FL</state>
+      <zip>33034</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=&amp;citystatezip=MIAMI++FL+33034</zillow>
+      <assesed>67067.00</assesed>
+      <legal_desc> 28 57 38 1.20 AC S158FT OF N351FT OF W1/2 OF W1/2 OF NE1/4 OF NW1/4 AKA LOT 10 BLK 1 FLA CITY AC ESTS U-R/ LOT SIZE IRREGULAR</legal_desc>
+    </object>
+    <object>
+      <ID>662202</ID>
+      <type>TAXDEED</type>
+      <parcel>10-7921-022-0080</parcel>
+      <cert>11-19413</cert>
+      <address>2351 SE 23 DR 2351</address>
+      <city>HOMESTEAD</city>
+      <state>FL</state>
+      <zip>33035</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2351+SE+23+DR+2351&amp;citystatezip=HOMESTEAD+FL+33035</zillow>
+      <assesed>50036.00</assesed>
+      <legal_desc> TOWNGATE CONDO TWELVE UNIT 2351 BLDG 21 UNDIV 1/20 INT IN COMMON ELEMENTS OFF REC 22534-1733</legal_desc>
+    </object>
+    <object>
+      <ID>662167</ID>
+      <type>TAXDEED</type>
+      <parcel>01-3114-020-0120</parcel>
+      <cert>00-4958</cert>
+      <address>1201 NW 67 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33147</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1201+NW+67+ST&amp;citystatezip=MIAMI+FL+33147</zillow>
+      <assesed>88180.00</assesed>
+      <legal_desc> 14 53 41 PB 40-38 EAST LIBERTY CITY HOMESITES LOTS 12 &amp; 13 BLK 12 LOT SIZE 113.520 X 108 OR 14018-1228 0289 2 COC 25581-2987 04 2007 1</legal_desc>
+    </object>
+    <object>
+      <ID>662168</ID>
+      <type>TAXDEED</type>
+      <parcel>01-3114-025-0170</parcel>
+      <cert>00-4993</cert>
+      <address>1172 NW 60 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33127</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1172+NW+60+ST&amp;citystatezip=MIAMI+FL+33127</zillow>
+      <assesed>27071.00</assesed>
+      <legal_desc> 14 53 41 .11 AC NORTHWOOD REV PL PB 33-72 W50FT OF E100FT TR3-B LESS S5FT LOT SIZE 50.00 X 88.00 OR 16881-2427 0995 4</legal_desc>
+    </object>
+    <object>
+      <ID>662169</ID>
+      <type>TAXDEED</type>
+      <parcel>01-3132-005-0150</parcel>
+      <cert>00-6831</cert>
+      <address>3801 NW 13 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33126</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=3801+NW+13+ST&amp;citystatezip=MIAMI+FL+33126</zillow>
+      <assesed>123757.00</assesed>
+      <legal_desc> MYRLO SUB PB 55-98 LOT 15 BLK 1 LOT SIZE 66.060 X 135 COC 22428-0173 06 2004 4</legal_desc>
+    </object>
+    <object>
+      <ID>662170</ID>
+      <type>TAXDEED</type>
+      <parcel>01-4139-021-0250</parcel>
+      <cert>00-10869</cert>
+      <address>2333 BRICKELL AVE 309</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33129</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2333+BRICKELL+AVE+309&amp;citystatezip=MIAMI+FL+33129</zillow>
+      <assesed>149435.00</assesed>
+      <legal_desc> BRICKELL BAY CLUB CONDO UNIT 309 UNDIV .1442% INT IN COMMON ELEMENTS CLERKS FILE 74R226876 OR 10434-20170579 1</legal_desc>
+    </object>
+    <object>
+      <ID>662171</ID>
+      <type>TAXDEED</type>
+      <parcel>02-3202-068-0020</parcel>
+      <cert>00-11661</cert>
+      <address>7800 BYRON AVE 2</address>
+      <city>MIAMI BEACH</city>
+      <state>FL</state>
+      <zip>33141</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=7800+BYRON+AVE+2&amp;citystatezip=MIAMI+BEACH+FL+33141</zillow>
+      <assesed>54680.00</assesed>
+      <legal_desc> VILLA ELENA CONDO UNIT 2 UNDIV 17.1203% INT IN COMMON ELEMENTS CLERKS FILE 74R-79653 OR 13732-1968 0 688 4</legal_desc>
+    </object>
+    <object>
+      <ID>662173</ID>
+      <type>TAXDEED</type>
+      <parcel>01-3122-052-0670</parcel>
+      <cert>00-05356</cert>
+      <address>1511 NW 52 ST</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33142</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=1511+NW+52+ST&amp;citystatezip=MIAMI+FL+33142</zillow>
+      <assesed>47817.00</assesed>
+      <legal_desc> FLORAL PARK 1ST AMD PL PB 8-5 LOT 25 BLK 3 LOT SIZE 50.000 X 100 OR 21009-4114</legal_desc>
+    </object>
+    <object>
+      <ID>662172</ID>
+      <type>TAXDEED</type>
+      <parcel>01-4139-029-3590</parcel>
+      <cert>00-10952</cert>
+      <address>2451 BRICKELL AVE C3</address>
+      <city>MIAMI</city>
+      <state>FL</state>
+      <zip>33129</zip>
+      <zillow>http://www.zillow.com/webservice/GetDeepSearchResults.htm?zws-id=X1-ZWz1dpfpzaxpfv_8w9nb&amp;address=2451+BRICKELL+AVE+C3&amp;citystatezip=MIAMI+FL+33129</zillow>
+      <assesed>162610.00</assesed>
+      <legal_desc> BRICKELL TOWNHOUSE CONDO UNIT COMM-3 UNDIV .1746165% INT IN COMMON ELEMENTS OFF REC 10526-650 OR 15266-1103/23104-2042 1091 1</legal_desc>
+    </object>
+    <object>
+      <ID/>
+    </object>
+  </objects>
+</root>

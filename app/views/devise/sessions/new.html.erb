@@ -1,0 +1,46 @@
+
+<div id="login-container">
+
+	<div id="logo">
+    	<%= link_to root_path do %>
+            <%= image_tag("logos/logo-login.png" , :alt => "Logo") %>
+        <% end %>
+	</div>
+
+	<div id="login">
+
+		<h3>Welcome to Canvas Admin.</h3>
+
+		<h5>Please sign in to get access.</h5>
+
+		<%= form_for(resource, :as => resource_name, :url => session_path(resource_name) ,
+			:html => {:id => 'login-form' ,:class => 'form'}) do |f| %>
+
+			<div class="form-group">
+				<label for="login-username">Login</label>
+				<%= f.text_field :login, :class => 'form-control' ,:id => 'login-username', :placeholder => "Email or Username" %>
+			</div>
+
+			<div class="form-group">
+				<label for="login-password">Password</label>
+		
+				<%= f.password_field :password ,:class => 'form-control' ,:id => 'login-password', :placeholder => "Password"%>
+			</div>
+
+			<div class="form-group">
+			   <button type="submit" id="login-btn" class="btn btn-primary btn-block">Signin &nbsp; <i class="fa fa-play-circle"></i></button>
+			</div>
+		<% end %>
+
+		<a href="javascript:;" class="btn btn-default">Forgot Password?</a>
+
+	</div> <!-- /#login -->
+
+<!-- 	<a href="javascript:;" id="signup-btn" class="btn btn-lg btn-block">
+		Create an Account
+	</a> -->
+	<%= link_to 'Create an Account', new_user_registration_path , :id => 'signup-btn' ,:class => 'btn btn-lg btn-block' %>
+
+</div> <!-- /#login-container -->
+
+

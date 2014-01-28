@@ -1,0 +1,59 @@
+<h1>Listing zillow_details</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Property</th>
+      <th>Zpid</th>
+      <th>Usecode</th>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>Year</th>
+      <th>Lot</th>
+      <th>Area</th>
+      <th>Baths</th>
+      <th>Beds</th>
+      <th>Lastsolddate</th>
+      <th>Lastsold</th>
+      <th>Zestimate</th>
+      <th>Zestimatedate</th>
+      <th>Zrentestimate</th>
+      <th>Zrentestimatedate</th>
+      <th>Zillowdetails</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @zillow_details.each do |zillow_detail| %>
+      <tr>
+        <td><%= zillow_detail.property %></td>
+        <td><%= zillow_detail.zpid %></td>
+        <td><%= zillow_detail.useCode %></td>
+        <td><%= zillow_detail.latitude %></td>
+        <td><%= zillow_detail.longitude %></td>
+        <td><%= zillow_detail.year %></td>
+        <td><%= zillow_detail.lot %></td>
+        <td><%= zillow_detail.area %></td>
+        <td><%= zillow_detail.baths %></td>
+        <td><%= zillow_detail.beds %></td>
+        <td><%= zillow_detail.lastSoldDate %></td>
+        <td><%= zillow_detail.lastSold %></td>
+        <td><%= zillow_detail.zEstimate %></td>
+        <td><%= zillow_detail.zEstimateDate %></td>
+        <td><%= zillow_detail.zRentEstimate %></td>
+        <td><%= zillow_detail.zRentEstimateDate %></td>
+        <td><%= zillow_detail.zillowDetails %></td>
+        <td><%= link_to 'Show', zillow_detail %></td>
+        <td><%= link_to 'Edit', edit_zillow_detail_path(zillow_detail) %></td>
+        <td><%= link_to 'Destroy', zillow_detail, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Zillow detail', new_zillow_detail_path %>

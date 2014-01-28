@@ -1,0 +1,51 @@
+<div class="portlet">
+
+						<div class="portlet-header">
+
+							<h3>
+								<i class="fa fa-table"></i>
+								Auctions
+							</h3>
+
+						</div> <!-- /.portlet-header -->
+
+						<div class="portlet-content">						
+
+							<div class="table-responsive">
+
+							<table class="table table-striped table-bordered table-hover table-highlight table-checkable" data-provide="datatable" data-display-rows="10" data-info="true" data-search="true" data-length-change="true" data-paginate="true">
+									<thead>
+										<tr>
+											<th data-filterable="true" data-sortable="true" data-direction="asc">ID</th>
+											<th data-filterable="true" data-sortable="true" data-direction="asc">Status</th>
+											<th data-filterable="true" data-sortable="true">Address</th>
+                      <th data-filterable="true" data-sortable="true">City</th>
+                      <th data-filterable="true" data-sortable="true">Zip</th>
+											<th data-filterable="true" data-sortable="true">Judgement</th>
+											<th data-filterable="true" data-sortable="true">Assesed</th>
+										</tr>
+									</thead>
+									<tbody>
+                    <% @properties.each do |property| %>
+										<tr>
+                      <td><%= link_to property.id, property %></td>
+                      <td><%= property.auctionStatus %></td>
+                      <td><%= property.address %></td>
+                      <td><%= property.city %></td>
+                      <td><%= property.zip %></td>
+                      <td class = "dollars"><%= number_to_currency(property.judgement) %></td>
+                      <td class = "dollars" ><%= number_to_currency(property.assesed) %>  </td> 
+										</tr>
+										<% end %>
+									</tbody>
+								</table>
+							</div> <!-- /.table-responsive -->
+							
+
+						</div> <!-- /.portlet-content -->
+
+					</div>
+
+<br>
+
+<%= link_to 'New Property', new_property_path %>

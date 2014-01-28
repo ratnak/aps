@@ -1,0 +1,45 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  auctioniID: MyString
+  auctionStatus: MyString
+  caseID: MyString
+  caseType: MyString
+  judgement: 9.99
+  assesed: 9.99
+  parcel: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip: MyString
+  legal: MyString
+  beds: 9.99
+  baths: 9.99
+  area: 9.99
+  lot: 9.99
+  year: 1
+  estimate: 9.99
+  rentEstimate: 9.99
+  zillow: MyString
+
+two:
+  auctioniID: MyString
+  auctionStatus: MyString
+  caseID: MyString
+  caseType: MyString
+  judgement: 9.99
+  assesed: 9.99
+  parcel: MyString
+  address: MyString
+  city: MyString
+  state: MyString
+  zip: MyString
+  legal: MyString
+  beds: 9.99
+  baths: 9.99
+  area: 9.99
+  lot: 9.99
+  year: 1
+  estimate: 9.99
+  rentEstimate: 9.99
+  zillow: MyString
