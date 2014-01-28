@@ -13,10 +13,15 @@
  *= require bootstrap.min
  *= require ui-lightness/jquery-ui-1.9.2.custom
  *= require skins/minimal/blue
+ *= require datepicker/datepicker
  *= require select2/select2
  *= require fullcalendar/fullcalendar
+ *= require simplecolorpicker/jquery.simplecolorpicker
+ *= require timepicker/bootstrap-timepicker
+ *= require fileupload/bootstrap-fileupload
  *= require App
  *= require custom
  *= require App
  *= require Login
  */
+

@@ -16,7 +16,13 @@
 //= require libs/jquery-ui-1.9.2.custom.min
 //= require libs/bootstrap.min
 //= require plugins/icheck/jquery.icheck.min
+//= require plugins/datepicker/bootstrap-datepicker
+//= require plugins/timepicker/bootstrap-timepicker
+//= require plugins/simplecolorpicker/jquery.simplecolorpicker
 //= require plugins/select2/select2
+//= require plugins/autosize/jquery.autosize.min
+//= require plugins/textarea-counter/jquery.textarea-counter
+//= require plugins/fileupload/bootstrap-fileupload
 //= require plugins/tableCheckable/jquery.tableCheckable
 //= require App
 //= require Login
@@ -30,5 +36,5 @@
 //= require demos/dashboard
 //= require plugins/datatables/jquery.dataTables.min
 //= require plugins/datatables/DT_bootstrap
-
+//= require properties
 
