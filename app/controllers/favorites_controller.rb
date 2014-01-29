@@ -1,5 +1,6 @@
 class FavoritesController < ApplicationController
   before_action :set_favorite, only: [:show, :edit, :update, :destroy]
+  skip_before_filter :verify_authenticity_token
 
   # GET /favorites
   # GET /favorites.json
@@ -14,6 +15,7 @@ class FavoritesController < ApplicationController
 
   # GET /favorites/new
   def new
+    binding.pry
     @favorite = Favorite.new
   end
 
@@ -24,18 +26,29 @@ class FavoritesController < ApplicationController
   # POST /favorites
   # POST /favorites.json
   def create
-    @favorite = Favorite.new(favorite_params)
+    #binding.pry
+    #@favorite = Favorite.new(favorite_params)
+    
+    # respond_to do |format|
+    #   if @favorite.save
+    #     format.html { redirect_to @favorite, notice: 'Favorite was successfully created.' }
+    #     format.json { render action: 'show', status: :created, location: @favorite }
+    #   else
+    #     format.html { render action: 'new' }
+    #     format.json { render json: @favorite.errors, status: :unprocessable_entity }
+    #   end
+    # end
 
-    respond_to do |format|
-      if @favorite.save
-        format.html { redirect_to @favorite, notice: 'Favorite was successfully created.' }
-        format.json { render action: 'show', status: :created, location: @favorite }
+    prop_list = params[:favorite][:prop_list] if params[:favorite] && params[:favorite].has_key?('prop_list')
+    respond_to do |format| 
+      unless prop_list.blank?
+        #Favorite.save_favs_for_checked_prop(current_user,prop_list)
+        format.js {}
       else
-        format.html { render action: 'new' }
-        format.json { render json: @favorite.errors, status: :unprocessable_entity }
-      end
+        format.js {render json: "failed", status: :unprocessable_entity }
+      end 
     end
-  end
+  end   
 
   # PATCH/PUT /favorites/1
   # PATCH/PUT /favorites/1.json
@@ -69,6 +82,6 @@ class FavoritesController < ApplicationController
 
     # Never trust parameters from the scary internet, only allow the white list through.
     def favorite_params
-      params.require(:favorite).permit(:property_id, :user_id, :notes)
+      params.require(:favorite).permit(:property_id, :user_id, :notes ,:prop_list)
     end
 end
