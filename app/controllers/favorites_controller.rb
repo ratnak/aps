@@ -42,7 +42,7 @@ class FavoritesController < ApplicationController
     prop_list = params[:favorite][:prop_list] if params[:favorite] && params[:favorite].has_key?('prop_list')
     respond_to do |format| 
       unless prop_list.blank?
-        #Favorite.save_favs_for_checked_prop(current_user,prop_list)
+        Favorite.save_favs_for_checked_prop(current_user,prop_list)
         format.js {}
       else
         format.js {render json: "failed", status: :unprocessable_entity }

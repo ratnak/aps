@@ -1,5 +1,5 @@
 $('document').ready(function(){
-	$('#sample').datepicker();
+	$('.sdp').datepicker();
 	var collection =[]
 	oTable = $('#properties').dataTable()
 	$('.myclass').click(function(e){
